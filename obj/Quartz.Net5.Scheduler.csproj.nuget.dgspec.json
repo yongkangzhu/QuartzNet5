@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repos1\\Quartz.Net5.Scheduler\\Quartz.Net5.Scheduler.csproj": {}
+  },
+  "projects": {
+    "D:\\repos1\\Quartz.Net5.Scheduler\\Quartz.Net5.Scheduler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repos1\\Quartz.Net5.Scheduler\\Quartz.Net5.Scheduler.csproj",
+        "projectName": "Quartz.Net5.Scheduler",
+        "projectPath": "D:\\repos1\\Quartz.Net5.Scheduler\\Quartz.Net5.Scheduler.csproj",
+        "packagesPath": "C:\\Users\\朱永康\\.nuget\\packages\\",
+        "outputPath": "D:\\repos1\\Quartz.Net5.Scheduler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\朱永康\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.aspnetcore.staticfiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Filters.Expressions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

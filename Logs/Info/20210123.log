@@ -1,0 +1,1094 @@
+2021-01-23 19:00:04,608 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 19:00:04,655 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 19:00:04,660 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 19:00:04,662 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 19:00:04,663 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 19:00:04,663 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 19:00:04,663 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 19:00:04,664 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 19:00:04,699 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 19:00:04,841 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 19:00:04,841 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 19:00:04,841 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 19:00:04,841 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 19:00:10,043 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:10,result:
+2021-01-23 19:00:15,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:00:20,result:
+2021-01-23 19:00:15,073 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:12,result:
+2021-01-23 19:00:20,081 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:15,result:
+2021-01-23 19:00:25,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:00:30,result:
+2021-01-23 19:00:25,085 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:18,result:
+2021-01-23 19:00:30,097 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:20,result:
+2021-01-23 19:00:35,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:00:40,result:
+2021-01-23 19:00:35,108 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:24,result:
+2021-01-23 19:00:40,116 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:25,result:
+2021-01-23 19:00:45,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:00:50,result:
+2021-01-23 19:00:45,121 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:30,result:
+2021-01-23 19:00:50,126 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:30,result:
+2021-01-23 19:00:55,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:01:00,result:
+2021-01-23 19:00:55,136 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:35,result:
+2021-01-23 19:01:00,143 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:36,result:
+2021-01-23 19:01:05,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:01:10,result:
+2021-01-23 19:01:05,145 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:00:40,result:
+2021-01-23 19:53:12,458 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 19:53:12,500 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 19:53:12,505 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 19:53:12,506 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 19:53:12,507 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 19:53:12,507 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 19:53:12,507 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 19:53:12,508 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 19:53:12,543 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 19:53:12,676 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 19:53:12,677 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 19:53:12,677 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 19:53:12,677 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 19:53:17,619 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:18,result:
+2021-01-23 19:53:22,647 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:20,result:
+2021-01-23 19:53:25,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:53:30,result:
+2021-01-23 19:53:25,579 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:53:25,588 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:53:25,596 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5.8813ms.
+2021-01-23 19:53:25,603 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:53:25,613 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 28.5567ms
+2021-01-23 19:53:27,650 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:24,result:
+2021-01-23 19:53:32,659 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:25,result:
+2021-01-23 19:53:35,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:53:40,result:
+2021-01-23 19:53:37,661 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:30,result:
+2021-01-23 19:53:42,673 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:30,result:
+2021-01-23 19:53:45,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:53:50,result:
+2021-01-23 19:53:47,679 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:35,result:
+2021-01-23 19:53:52,479 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:53:52,481 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:53:52,481 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1495ms.
+2021-01-23 19:53:52,482 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:53:52,483 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.0589ms
+2021-01-23 19:53:52,686 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:36,result:
+2021-01-23 19:53:55,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:54:00,result:
+2021-01-23 19:53:57,056 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:53:57,057 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:53:57,057 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1236ms.
+2021-01-23 19:53:57,058 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:53:57,059 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.5023ms
+2021-01-23 19:53:57,698 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:40,result:
+2021-01-23 19:54:01,293 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:54:01,294 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:54:01,295 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1902ms.
+2021-01-23 19:54:01,296 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:54:01,297 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.8497ms
+2021-01-23 19:54:02,712 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:42,result:
+2021-01-23 19:54:05,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:54:10,result:
+2021-01-23 19:54:06,075 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:54:06,076 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:54:06,076 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1584ms.
+2021-01-23 19:54:06,077 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:54:06,078 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.2989ms
+2021-01-23 19:54:07,723 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:45,result:
+2021-01-23 19:54:07,985 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:54:07,986 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:54:07,987 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1331ms.
+2021-01-23 19:54:07,988 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:54:07,988 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.2219ms
+2021-01-23 19:54:09,230 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:54:09,231 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:54:09,231 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1514ms.
+2021-01-23 19:54:09,232 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:54:09,233 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.3324ms
+2021-01-23 19:54:09,971 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:54:09,972 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:54:09,972 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1271ms.
+2021-01-23 19:54:09,973 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:54:09,974 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.2482ms
+2021-01-23 19:54:12,730 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:48,result:
+2021-01-23 19:54:15,021 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:54:20,result:
+2021-01-23 19:54:17,739 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:50,result:
+2021-01-23 19:54:22,748 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:54,result:
+2021-01-23 19:54:25,022 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:54:30,result:
+2021-01-23 19:54:27,752 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:53:55,result:
+2021-01-23 19:54:32,760 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:00,result:
+2021-01-23 19:54:35,020 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:54:40,result:
+2021-01-23 19:54:37,762 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:00,result:
+2021-01-23 19:54:42,768 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:05,result:
+2021-01-23 19:54:45,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:54:50,result:
+2021-01-23 19:54:47,784 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:06,result:
+2021-01-23 19:54:52,790 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:10,result:
+2021-01-23 19:54:55,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:55:00,result:
+2021-01-23 19:54:57,791 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:12,result:
+2021-01-23 19:55:02,797 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:15,result:
+2021-01-23 19:55:05,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:55:10,result:
+2021-01-23 19:55:07,804 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:54:18,result:
+2021-01-23 19:55:08,138 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:55:08,139 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:55:08,139 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1166ms.
+2021-01-23 19:55:08,140 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:55:08,140 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.1835ms
+2021-01-23 19:55:23,063 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 19:55:23,102 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 19:55:23,106 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 19:55:23,107 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 19:55:23,108 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 19:55:23,108 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 19:55:23,108 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 19:55:23,109 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 19:55:23,141 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 19:55:23,263 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 19:55:23,263 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 19:55:23,263 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 19:55:23,263 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 19:55:27,720 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:55:27,728 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:55:27,736 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5.5067ms.
+2021-01-23 19:55:27,742 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:55:27,762 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 36.6186ms
+2021-01-23 19:55:29,042 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:30,result:
+2021-01-23 19:55:30,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:36,result:
+2021-01-23 19:55:32,487 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:55:32,488 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:55:32,488 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1843ms.
+2021-01-23 19:55:32,490 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:55:32,490 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.0296ms
+2021-01-23 19:55:35,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:55:40,result:
+2021-01-23 19:55:35,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:36,result:
+2021-01-23 19:55:35,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:36,result:
+2021-01-23 19:55:40,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:45,result:
+2021-01-23 19:55:41,022 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:45,result:
+2021-01-23 19:55:45,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:55:50,result:
+2021-01-23 19:55:45,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:50,result:
+2021-01-23 19:55:47,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:50,result:
+2021-01-23 19:55:50,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:55,result:
+2021-01-23 19:55:53,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:55:55,result:
+2021-01-23 19:55:55,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:00,result:
+2021-01-23 19:55:55,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:56:00,result:
+2021-01-23 19:55:59,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:00,result:
+2021-01-23 19:56:00,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:00,result:
+2021-01-23 19:56:05,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:10,result:
+2021-01-23 19:56:05,023 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:56:10,result:
+2021-01-23 19:56:05,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:10,result:
+2021-01-23 19:56:10,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:15,result:
+2021-01-23 19:56:11,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:15,result:
+2021-01-23 19:56:15,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:56:20,result:
+2021-01-23 19:56:15,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:18,result:
+2021-01-23 19:56:17,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:20,result:
+2021-01-23 19:56:20,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:25,result:
+2021-01-23 19:56:23,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:25,result:
+2021-01-23 19:56:25,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:56:30,result:
+2021-01-23 19:56:25,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:30,result:
+2021-01-23 19:56:29,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:30,result:
+2021-01-23 19:56:30,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:36,result:
+2021-01-23 19:56:35,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:36,result:
+2021-01-23 19:56:35,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:56:40,result:
+2021-01-23 19:56:35,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:36,result:
+2021-01-23 19:56:40,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:45,result:
+2021-01-23 19:56:41,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:45,result:
+2021-01-23 19:56:45,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:56:50,result:
+2021-01-23 19:56:45,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:50,result:
+2021-01-23 19:56:47,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:50,result:
+2021-01-23 19:56:50,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:54,result:
+2021-01-23 19:56:53,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:56:55,result:
+2021-01-23 19:56:55,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:57:00,result:
+2021-01-23 19:56:55,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:00,result:
+2021-01-23 19:56:59,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:00,result:
+2021-01-23 19:57:00,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:00,result:
+2021-01-23 19:57:05,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:57:10,result:
+2021-01-23 19:57:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:10,result:
+2021-01-23 19:57:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:10,result:
+2021-01-23 19:57:10,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:15,result:
+2021-01-23 19:57:11,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:15,result:
+2021-01-23 19:57:15,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:57:20,result:
+2021-01-23 19:57:15,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:18,result:
+2021-01-23 19:57:17,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:20,result:
+2021-01-23 19:57:20,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:25,result:
+2021-01-23 19:57:23,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:25,result:
+2021-01-23 19:57:25,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:30,result:
+2021-01-23 19:57:25,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:57:30,result:
+2021-01-23 19:57:29,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:30,result:
+2021-01-23 19:57:30,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:30,result:
+2021-01-23 19:57:35,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:57:40,result:
+2021-01-23 19:57:35,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:40,result:
+2021-01-23 19:57:35,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:40,result:
+2021-01-23 19:57:40,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:45,result:
+2021-01-23 19:57:41,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:45,result:
+2021-01-23 19:57:45,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:50,result:
+2021-01-23 19:57:45,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:57:50,result:
+2021-01-23 19:57:47,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:50,result:
+2021-01-23 19:57:50,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:54,result:
+2021-01-23 19:57:53,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:57:55,result:
+2021-01-23 19:57:55,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:00,result:
+2021-01-23 19:57:55,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:58:00,result:
+2021-01-23 19:57:59,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:00,result:
+2021-01-23 19:58:00,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:00,result:
+2021-01-23 19:58:05,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:58:10,result:
+2021-01-23 19:58:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:10,result:
+2021-01-23 19:58:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:10,result:
+2021-01-23 19:58:10,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:15,result:
+2021-01-23 19:58:11,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:15,result:
+2021-01-23 19:58:15,003 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:58:20,result:
+2021-01-23 19:58:15,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:18,result:
+2021-01-23 19:58:17,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:20,result:
+2021-01-23 19:58:20,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:24,result:
+2021-01-23 19:58:23,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:25,result:
+2021-01-23 19:58:25,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:58:30,result:
+2021-01-23 19:58:25,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:30,result:
+2021-01-23 19:58:29,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:30,result:
+2021-01-23 19:58:30,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:36,result:
+2021-01-23 19:58:35,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:58:40,result:
+2021-01-23 19:58:35,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:36,result:
+2021-01-23 19:58:35,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:36,result:
+2021-01-23 19:58:40,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:42,result:
+2021-01-23 19:58:41,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:45,result:
+2021-01-23 19:58:41,854 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 19:58:41,855 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 19:58:41,856 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1272ms.
+2021-01-23 19:58:41,857 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 19:58:41,858 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.0876ms
+2021-01-23 19:58:45,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:48,result:
+2021-01-23 19:58:45,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 19:58:50,result:
+2021-01-23 19:58:47,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 19:58:50,result:
+2021-01-23 20:00:55,613 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:00:55,653 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:00:55,654 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:00:55,658 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:00:55,660 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:00:55,660 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:00:55,660 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:00:55,660 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:00:55,693 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:00:55,819 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:00:55,819 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:00:55,819 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:00:55,819 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:01:00,763 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:06,result:
+2021-01-23 20:01:00,930 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:01:00,939 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:01:00,947 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5.6792ms.
+2021-01-23 20:01:00,953 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 20:01:00,973 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 37.3456ms
+2021-01-23 20:01:05,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:06,result:
+2021-01-23 20:01:05,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:06,result:
+2021-01-23 20:01:05,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:01:10,result:
+2021-01-23 20:01:10,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:15,result:
+2021-01-23 20:01:11,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:15,result:
+2021-01-23 20:01:15,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:18,result:
+2021-01-23 20:01:15,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:01:20,result:
+2021-01-23 20:01:17,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:20,result:
+2021-01-23 20:01:20,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:25,result:
+2021-01-23 20:01:23,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:25,result:
+2021-01-23 20:01:24,004 INFO :0 - [] [] [] Route matched with {action = "PauseAll", controller = "ScheduleManager"}. Executing controller action with signature System.String PauseAll() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:01:24,005 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:01:24,010 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.3962ms.
+2021-01-23 20:01:24,011 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-23 20:01:24,012 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler) in 6.648ms
+2021-01-23 20:01:25,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:30,result:
+2021-01-23 20:01:25,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:01:30,result:
+2021-01-23 20:01:27,477 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:01:27,478 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:01:27,478 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.3371ms.
+2021-01-23 20:01:27,479 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 20:01:27,480 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.412ms
+2021-01-23 20:01:29,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:01:30,result:
+2021-01-23 20:02:33,310 INFO :0 - [] [] [] Route matched with {action = "ResumeAll", controller = "ScheduleManager"}. Executing controller action with signature System.String ResumeAll() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:02:33,311 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:02:33,315 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3.883ms.
+2021-01-23 20:02:33,318 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-23 20:02:33,318 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler) in 8.0974ms
+2021-01-23 20:02:36,162 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:02:36,164 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:02:36,165 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1356ms.
+2021-01-23 20:02:36,166 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 20:02:36,167 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.0641ms
+2021-01-23 20:02:38,329 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:42,result:
+2021-01-23 20:02:38,329 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:02:40,result:
+2021-01-23 20:02:38,329 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:42,result:
+2021-01-23 20:02:40,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:42,result:
+2021-01-23 20:02:41,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:45,result:
+2021-01-23 20:02:45,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:02:50,result:
+2021-01-23 20:02:45,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:50,result:
+2021-01-23 20:02:47,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:50,result:
+2021-01-23 20:02:50,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:54,result:
+2021-01-23 20:02:53,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:02:55,result:
+2021-01-23 20:02:55,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:00,result:
+2021-01-23 20:02:55,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:03:00,result:
+2021-01-23 20:02:59,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:00,result:
+2021-01-23 20:03:00,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:00,result:
+2021-01-23 20:03:05,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:03:10,result:
+2021-01-23 20:03:05,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:10,result:
+2021-01-23 20:03:05,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:10,result:
+2021-01-23 20:03:10,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:12,result:
+2021-01-23 20:03:11,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:15,result:
+2021-01-23 20:03:15,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:18,result:
+2021-01-23 20:03:15,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:03:20,result:
+2021-01-23 20:03:17,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:20,result:
+2021-01-23 20:03:20,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:25,result:
+2021-01-23 20:03:23,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:25,result:
+2021-01-23 20:03:25,020 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:03:30,result:
+2021-01-23 20:03:25,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:30,result:
+2021-01-23 20:03:29,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:30,result:
+2021-01-23 20:03:30,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:36,result:
+2021-01-23 20:03:35,002 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:03:40,result:
+2021-01-23 20:03:35,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:40,result:
+2021-01-23 20:03:35,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:40,result:
+2021-01-23 20:03:40,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:42,result:
+2021-01-23 20:03:41,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:45,result:
+2021-01-23 20:03:45,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:03:50,result:
+2021-01-23 20:03:45,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:50,result:
+2021-01-23 20:03:47,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:50,result:
+2021-01-23 20:03:50,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:54,result:
+2021-01-23 20:03:53,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:03:55,result:
+2021-01-23 20:03:55,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:00,result:
+2021-01-23 20:03:55,021 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:04:00,result:
+2021-01-23 20:03:59,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:00,result:
+2021-01-23 20:04:00,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:00,result:
+2021-01-23 20:04:05,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:10,result:
+2021-01-23 20:04:05,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:04:10,result:
+2021-01-23 20:04:05,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:10,result:
+2021-01-23 20:04:10,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:12,result:
+2021-01-23 20:04:11,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:15,result:
+2021-01-23 20:04:15,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:04:20,result:
+2021-01-23 20:04:15,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:20,result:
+2021-01-23 20:04:17,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:20,result:
+2021-01-23 20:04:20,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:24,result:
+2021-01-23 20:04:23,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:25,result:
+2021-01-23 20:04:25,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:04:30,result:
+2021-01-23 20:04:25,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:30,result:
+2021-01-23 20:04:26,972 INFO :0 - [] [] [] Route matched with {action = "PauseJob", controller = "ScheduleManager"}. Executing controller action with signature System.String PauseJob(System.String, System.String) on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:04:26,982 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseJob (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:04:26,984 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseJob (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.5894ms.
+2021-01-23 20:04:26,985 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-23 20:04:26,985 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseJob (Quartz.Net5.Scheduler) in 12.6235ms
+2021-01-23 20:04:29,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:30,result:
+2021-01-23 20:04:30,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:04:30,result:
+2021-01-23 20:04:33,255 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:04:33,256 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:04:33,256 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1145ms.
+2021-01-23 20:04:33,257 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 20:04:33,257 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.3095ms
+2021-01-23 20:04:35,026 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:04:40,result:
+2021-01-23 20:04:45,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:04:50,result:
+2021-01-23 20:04:55,002 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:05:00,result:
+2021-01-23 20:05:05,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:05:10,result:
+2021-01-23 20:05:15,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:05:20,result:
+2021-01-23 20:05:25,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:05:30,result:
+2021-01-23 20:05:35,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:05:40,result:
+2021-01-23 20:05:45,020 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:05:50,result:
+2021-01-23 20:05:55,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:06:00,result:
+2021-01-23 20:06:05,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:06:10,result:
+2021-01-23 20:06:15,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:06:20,result:
+2021-01-23 20:06:25,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:06:30,result:
+2021-01-23 20:06:35,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:06:40,result:
+2021-01-23 20:06:45,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:06:50,result:
+2021-01-23 20:06:55,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:07:00,result:
+2021-01-23 20:07:05,003 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:07:10,result:
+2021-01-23 20:07:15,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:07:20,result:
+2021-01-23 20:07:25,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:07:30,result:
+2021-01-23 20:07:35,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:07:40,result:
+2021-01-23 20:07:45,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:07:50,result:
+2021-01-23 20:07:55,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:08:00,result:
+2021-01-23 20:08:05,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:08:10,result:
+2021-01-23 20:08:15,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:08:20,result:
+2021-01-23 20:08:25,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:08:30,result:
+2021-01-23 20:08:35,017 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:08:40,result:
+2021-01-23 20:16:37,749 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:16:37,795 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:16:37,799 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:16:37,800 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:16:37,802 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:16:37,802 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:16:37,802 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:16:37,802 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:16:37,836 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:16:37,962 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:16:37,962 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:16:37,962 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:16:37,962 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:16:45,029 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:16:50,result:
+2021-01-23 20:16:45,029 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:16:50,result:
+2021-01-23 20:16:47,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:16:50,result:
+2021-01-23 20:16:50,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:16:54,result:
+2021-01-23 20:16:53,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:16:55,result:
+2021-01-23 20:16:55,024 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:17:00,result:
+2021-01-23 20:16:55,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:00,result:
+2021-01-23 20:16:59,030 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:00,result:
+2021-01-23 20:17:00,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:06,result:
+2021-01-23 20:17:05,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:17:10,result:
+2021-01-23 20:17:05,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:06,result:
+2021-01-23 20:17:05,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:06,result:
+2021-01-23 20:17:10,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:12,result:
+2021-01-23 20:17:11,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:15,result:
+2021-01-23 20:17:15,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:18,result:
+2021-01-23 20:17:15,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:17:20,result:
+2021-01-23 20:17:17,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:17:20,result:
+2021-01-23 20:20:54,861 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:20:54,906 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:20:54,910 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:20:54,911 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:20:54,912 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:20:54,912 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:20:54,912 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:20:54,913 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:20:54,945 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:20:55,110 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:20:55,110 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:20:55,110 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:20:55,110 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:21:00,061 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:21:06,result:
+2021-01-23 20:21:00,061 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:21:06,result:
+2021-01-23 20:21:05,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:21:10,result:
+2021-01-23 20:21:05,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:21:06,result:
+2021-01-23 20:21:05,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:21:06,result:
+2021-01-23 20:21:10,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:21:12,result:
+2021-01-23 20:21:11,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:21:15,result:
+2021-01-23 20:23:04,751 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:23:04,788 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:23:04,792 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:23:04,793 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:23:04,794 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:23:04,795 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:23:04,795 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:23:04,795 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:23:04,828 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:24:07,553 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:24:07,591 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:24:07,595 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:24:07,596 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:24:07,597 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:24:07,598 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:24:07,598 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:24:07,598 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:24:07,630 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:24:07,753 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:24:07,753 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:24:07,753 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:24:07,753 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:24:15,046 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:24:20,result:
+2021-01-23 20:24:15,046 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:20,result:
+2021-01-23 20:24:17,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:20,result:
+2021-01-23 20:24:20,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:25,result:
+2021-01-23 20:24:23,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:25,result:
+2021-01-23 20:24:25,022 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:30,result:
+2021-01-23 20:24:25,022 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:24:30,result:
+2021-01-23 20:24:29,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:30,result:
+2021-01-23 20:24:30,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:30,result:
+2021-01-23 20:24:35,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:40,result:
+2021-01-23 20:24:35,020 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:24:40,result:
+2021-01-23 20:24:35,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:40,result:
+2021-01-23 20:24:40,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:45,result:
+2021-01-23 20:24:41,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:24:45,result:
+2021-01-23 20:34:03,170 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:34:03,211 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:34:03,216 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:34:03,217 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:34:03,218 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:34:03,218 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:34:03,218 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:34:03,219 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:34:03,253 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:34:03,377 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:34:03,377 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:34:03,377 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:34:03,377 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:34:10,043 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:34:15,result:
+2021-01-23 20:34:11,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:34:15,result:
+2021-01-23 20:34:15,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:34:20,result:
+2021-01-23 20:34:15,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:34:20,result:
+2021-01-23 20:34:17,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:34:20,result:
+2021-01-23 20:34:20,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:34:25,result:
+2021-01-23 20:34:23,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:34:25,result:
+2021-01-23 20:34:50,399 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:34:50,438 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:34:50,442 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:34:50,443 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:34:50,444 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:34:50,444 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:34:50,444 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:34:50,445 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:34:50,479 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:37:38,221 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:37:38,260 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:37:38,263 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:37:38,264 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:37:38,266 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:37:38,266 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:37:38,266 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:37:38,266 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:37:38,299 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:38:00,232 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:38:00,272 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:38:00,276 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:38:00,277 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:38:00,278 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:38:00,278 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:38:00,278 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:38:00,279 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:38:00,314 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:38:00,438 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:38:00,439 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:38:00,439 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:38:00,439 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:38:05,398 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:10,result:
+2021-01-23 20:38:05,398 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:38:10,result:
+2021-01-23 20:38:05,398 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:10,result:
+2021-01-23 20:38:10,031 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:15,result:
+2021-01-23 20:38:11,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:15,result:
+2021-01-23 20:38:15,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:20,result:
+2021-01-23 20:38:15,025 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:38:20,result:
+2021-01-23 20:38:17,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:20,result:
+2021-01-23 20:38:20,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:24,result:
+2021-01-23 20:38:23,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:25,result:
+2021-01-23 20:38:25,009 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:38:30,result:
+2021-01-23 20:38:25,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:38:30,result:
+2021-01-23 20:43:32,920 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:43:32,921 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:43:32,922 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:43:32,922 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:52:17,812 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 20:52:17,851 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 20:52:17,857 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 20:52:17,857 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 20:52:17,859 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 20:52:17,859 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 20:52:17,859 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 20:52:17,859 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 20:52:17,892 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 20:52:18,030 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 20:52:18,030 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 20:52:18,030 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 20:52:18,031 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 20:52:23,040 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:25,result:
+2021-01-23 20:52:25,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:30,result:
+2021-01-23 20:52:25,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:52:30,result:
+2021-01-23 20:52:27,685 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 20:52:27,695 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 20:52:27,704 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 6.201ms.
+2021-01-23 20:52:27,710 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 20:52:27,731 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 39.6791ms
+2021-01-23 20:52:29,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:30,result:
+2021-01-23 20:52:30,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:30,result:
+2021-01-23 20:52:35,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:52:40,result:
+2021-01-23 20:52:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:36,result:
+2021-01-23 20:52:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:36,result:
+2021-01-23 20:52:40,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:45,result:
+2021-01-23 20:52:41,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:45,result:
+2021-01-23 20:52:45,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:52:50,result:
+2021-01-23 20:52:45,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:50,result:
+2021-01-23 20:52:47,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:50,result:
+2021-01-23 20:52:50,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:55,result:
+2021-01-23 20:52:53,028 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:52:55,result:
+2021-01-23 20:52:55,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:00,result:
+2021-01-23 20:52:55,020 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:53:00,result:
+2021-01-23 20:52:59,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:00,result:
+2021-01-23 20:53:00,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:00,result:
+2021-01-23 20:53:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:10,result:
+2021-01-23 20:53:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:10,result:
+2021-01-23 20:53:05,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:53:10,result:
+2021-01-23 20:53:10,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:12,result:
+2021-01-23 20:53:11,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:15,result:
+2021-01-23 20:53:15,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:20,result:
+2021-01-23 20:53:15,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 20:53:20,result:
+2021-01-23 20:53:17,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 20:53:20,result:
+2021-01-23 21:06:11,696 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 21:06:11,734 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 21:06:11,738 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 21:06:11,739 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 21:06:11,740 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 21:06:11,740 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 21:06:11,740 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 21:06:11,741 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 21:06:11,773 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 21:06:11,891 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 21:06:11,891 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 21:06:11,891 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 21:06:11,891 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 21:06:16,042 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:06:16,052 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:06:16,061 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 6.0202ms.
+2021-01-23 21:06:16,067 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:06:16,088 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 39.6262ms
+2021-01-23 21:06:17,028 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:20,result:
+2021-01-23 21:06:20,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:25,result:
+2021-01-23 21:06:23,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:25,result:
+2021-01-23 21:06:25,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:30,result:
+2021-01-23 21:06:25,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:06:30,result:
+2021-01-23 21:06:29,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:30,result:
+2021-01-23 21:06:30,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:30,result:
+2021-01-23 21:06:35,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:40,result:
+2021-01-23 21:06:35,021 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:06:40,result:
+2021-01-23 21:06:35,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:40,result:
+2021-01-23 21:06:40,029 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:45,result:
+2021-01-23 21:06:40,669 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:06:40,671 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:06:40,672 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2846ms.
+2021-01-23 21:06:40,673 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:06:40,674 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.45ms
+2021-01-23 21:06:41,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:45,result:
+2021-01-23 21:06:45,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:50,result:
+2021-01-23 21:06:45,024 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:06:50,result:
+2021-01-23 21:06:47,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:50,result:
+2021-01-23 21:06:50,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:55,result:
+2021-01-23 21:06:53,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:06:55,result:
+2021-01-23 21:06:55,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:00,result:
+2021-01-23 21:06:55,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:07:00,result:
+2021-01-23 21:06:59,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:00,result:
+2021-01-23 21:07:00,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:00,result:
+2021-01-23 21:07:05,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:07:10,result:
+2021-01-23 21:07:05,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:06,result:
+2021-01-23 21:07:05,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:06,result:
+2021-01-23 21:07:10,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:15,result:
+2021-01-23 21:07:11,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:15,result:
+2021-01-23 21:07:15,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:18,result:
+2021-01-23 21:07:15,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:07:20,result:
+2021-01-23 21:07:17,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:20,result:
+2021-01-23 21:07:20,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:25,result:
+2021-01-23 21:07:23,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:25,result:
+2021-01-23 21:07:25,009 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:07:30,result:
+2021-01-23 21:07:25,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:30,result:
+2021-01-23 21:07:29,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:30,result:
+2021-01-23 21:07:30,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:36,result:
+2021-01-23 21:07:35,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:36,result:
+2021-01-23 21:07:35,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:36,result:
+2021-01-23 21:07:35,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:07:40,result:
+2021-01-23 21:07:40,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:45,result:
+2021-01-23 21:07:41,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:45,result:
+2021-01-23 21:07:45,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:50,result:
+2021-01-23 21:07:45,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:07:50,result:
+2021-01-23 21:07:47,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:50,result:
+2021-01-23 21:07:50,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:55,result:
+2021-01-23 21:07:53,026 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:07:55,result:
+2021-01-23 21:07:55,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:00,result:
+2021-01-23 21:07:55,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:08:00,result:
+2021-01-23 21:07:59,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:00,result:
+2021-01-23 21:08:00,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:00,result:
+2021-01-23 21:08:05,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:10,result:
+2021-01-23 21:08:05,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:10,result:
+2021-01-23 21:08:05,025 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:08:10,result:
+2021-01-23 21:08:10,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:12,result:
+2021-01-23 21:08:11,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:15,result:
+2021-01-23 21:08:15,027 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:20,result:
+2021-01-23 21:08:15,027 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:08:20,result:
+2021-01-23 21:08:17,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:20,result:
+2021-01-23 21:08:20,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:25,result:
+2021-01-23 21:08:23,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:25,result:
+2021-01-23 21:08:25,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:08:30,result:
+2021-01-23 21:08:25,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:30,result:
+2021-01-23 21:08:29,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:30,result:
+2021-01-23 21:08:30,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:30,result:
+2021-01-23 21:08:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:40,result:
+2021-01-23 21:08:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:40,result:
+2021-01-23 21:08:35,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:08:40,result:
+2021-01-23 21:08:40,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:42,result:
+2021-01-23 21:08:41,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:45,result:
+2021-01-23 21:08:45,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:48,result:
+2021-01-23 21:08:45,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:08:50,result:
+2021-01-23 21:08:47,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:50,result:
+2021-01-23 21:08:50,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:54,result:
+2021-01-23 21:08:53,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:08:55,result:
+2021-01-23 21:08:55,024 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:09:00,result:
+2021-01-23 21:08:55,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:00,result:
+2021-01-23 21:08:59,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:00,result:
+2021-01-23 21:09:00,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:06,result:
+2021-01-23 21:09:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:06,result:
+2021-01-23 21:09:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:06,result:
+2021-01-23 21:09:05,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:09:10,result:
+2021-01-23 21:09:06,129 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:09:06,131 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:09:06,131 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1799ms.
+2021-01-23 21:09:06,132 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:09:06,132 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.4784ms
+2021-01-23 21:09:10,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:15,result:
+2021-01-23 21:09:11,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:15,result:
+2021-01-23 21:09:15,003 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:09:20,result:
+2021-01-23 21:09:15,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:18,result:
+2021-01-23 21:09:17,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:20,result:
+2021-01-23 21:09:20,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:25,result:
+2021-01-23 21:09:23,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:25,result:
+2021-01-23 21:09:25,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:09:30,result:
+2021-01-23 21:09:25,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:30,result:
+2021-01-23 21:09:29,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:30,result:
+2021-01-23 21:09:30,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:30,result:
+2021-01-23 21:09:31,571 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:09:31,572 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:09:31,573 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2117ms.
+2021-01-23 21:09:31,574 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:09:31,575 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.6657ms
+2021-01-23 21:09:35,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:36,result:
+2021-01-23 21:09:35,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:09:40,result:
+2021-01-23 21:09:35,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:36,result:
+2021-01-23 21:09:40,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:45,result:
+2021-01-23 21:09:40,472 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:09:40,474 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:09:40,474 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2105ms.
+2021-01-23 21:09:40,475 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:09:40,476 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.7803ms
+2021-01-23 21:09:41,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:45,result:
+2021-01-23 21:09:45,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:09:50,result:
+2021-01-23 21:09:45,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:48,result:
+2021-01-23 21:09:47,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:50,result:
+2021-01-23 21:09:50,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:55,result:
+2021-01-23 21:09:53,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:09:55,result:
+2021-01-23 21:09:55,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:00,result:
+2021-01-23 21:09:55,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:10:00,result:
+2021-01-23 21:09:59,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:00,result:
+2021-01-23 21:10:00,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:06,result:
+2021-01-23 21:10:05,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:10:10,result:
+2021-01-23 21:10:05,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:06,result:
+2021-01-23 21:10:05,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:06,result:
+2021-01-23 21:10:10,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:12,result:
+2021-01-23 21:10:11,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:15,result:
+2021-01-23 21:10:15,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:20,result:
+2021-01-23 21:10:15,023 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:10:20,result:
+2021-01-23 21:10:17,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:20,result:
+2021-01-23 21:10:20,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:25,result:
+2021-01-23 21:10:23,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:25,result:
+2021-01-23 21:10:25,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:30,result:
+2021-01-23 21:10:25,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:10:30,result:
+2021-01-23 21:10:29,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:30,result:
+2021-01-23 21:10:30,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:36,result:
+2021-01-23 21:10:32,138 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:10:32,140 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:10:32,142 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.6808ms.
+2021-01-23 21:10:32,144 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:10:32,145 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 6.5099ms
+2021-01-23 21:10:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:40,result:
+2021-01-23 21:10:35,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:10:40,result:
+2021-01-23 21:10:35,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:40,result:
+2021-01-23 21:10:40,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:45,result:
+2021-01-23 21:10:41,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:45,result:
+2021-01-23 21:10:45,003 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:10:50,result:
+2021-01-23 21:10:45,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:50,result:
+2021-01-23 21:10:47,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:50,result:
+2021-01-23 21:10:50,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:54,result:
+2021-01-23 21:10:53,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:10:55,result:
+2021-01-23 21:10:55,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:00,result:
+2021-01-23 21:10:55,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:11:00,result:
+2021-01-23 21:10:59,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:00,result:
+2021-01-23 21:11:00,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:06,result:
+2021-01-23 21:11:05,025 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:11:10,result:
+2021-01-23 21:11:05,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:10,result:
+2021-01-23 21:11:05,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:10,result:
+2021-01-23 21:11:05,390 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:11:05,391 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:11:05,392 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2069ms.
+2021-01-23 21:11:05,393 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:11:05,394 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.2668ms
+2021-01-23 21:11:10,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:15,result:
+2021-01-23 21:11:11,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:15,result:
+2021-01-23 21:11:15,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:20,result:
+2021-01-23 21:11:15,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:11:20,result:
+2021-01-23 21:11:17,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:20,result:
+2021-01-23 21:11:20,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:24,result:
+2021-01-23 21:11:23,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:25,result:
+2021-01-23 21:11:25,022 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:30,result:
+2021-01-23 21:11:25,022 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:11:30,result:
+2021-01-23 21:11:29,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:30,result:
+2021-01-23 21:11:30,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:30,result:
+2021-01-23 21:11:35,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:36,result:
+2021-01-23 21:11:35,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:36,result:
+2021-01-23 21:11:35,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:11:40,result:
+2021-01-23 21:11:40,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:45,result:
+2021-01-23 21:11:41,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:45,result:
+2021-01-23 21:11:45,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:48,result:
+2021-01-23 21:11:45,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:11:50,result:
+2021-01-23 21:11:47,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:50,result:
+2021-01-23 21:11:50,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:55,result:
+2021-01-23 21:11:53,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:11:55,result:
+2021-01-23 21:11:55,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:12:00,result:
+2021-01-23 21:11:55,009 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:12:00,result:
+2021-01-23 21:11:59,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:12:00,result:
+2021-01-23 21:12:00,022 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:12:06,result:
+2021-01-23 21:12:05,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:12:10,result:
+2021-01-23 21:12:05,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:12:10,result:
+2021-01-23 21:12:05,017 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:12:10,result:
+2021-01-23 21:12:10,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:12:15,result:
+2021-01-23 21:14:07,630 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 21:14:07,670 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 21:14:07,674 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 21:14:07,675 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 21:14:07,676 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 21:14:07,677 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 21:14:07,677 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 21:14:07,677 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 21:14:07,711 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 21:14:07,829 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 21:14:07,829 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 21:14:07,829 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 21:14:07,829 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 21:14:15,039 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:14:20,result:
+2021-01-23 21:14:15,040 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:20,result:
+2021-01-23 21:14:17,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:20,result:
+2021-01-23 21:14:18,612 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:14:18,622 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:14:18,631 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5.8161ms.
+2021-01-23 21:14:18,637 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:14:18,658 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 39.3573ms
+2021-01-23 21:14:20,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:24,result:
+2021-01-23 21:14:23,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:25,result:
+2021-01-23 21:14:25,029 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:30,result:
+2021-01-23 21:14:25,029 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:14:30,result:
+2021-01-23 21:14:29,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:30,result:
+2021-01-23 21:14:30,027 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:36,result:
+2021-01-23 21:14:35,015 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:14:40,result:
+2021-01-23 21:14:35,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:40,result:
+2021-01-23 21:14:35,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:40,result:
+2021-01-23 21:14:40,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:45,result:
+2021-01-23 21:14:41,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:45,result:
+2021-01-23 21:14:45,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:14:50,result:
+2021-01-23 21:14:45,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:48,result:
+2021-01-23 21:14:47,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:50,result:
+2021-01-23 21:14:50,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:14:55,result:
+2021-01-23 21:16:42,606 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-23 21:16:42,644 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-23 21:16:42,648 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-23 21:16:42,649 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-23 21:16:42,650 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-23 21:16:42,650 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-23 21:16:42,650 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-23 21:16:42,650 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-23 21:16:42,683 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-23 21:16:42,801 INFO :0 - [] [] [] Now listening on: http://localhost:5000
+2021-01-23 21:16:42,802 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-23 21:16:42,802 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-23 21:16:42,802 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler
+2021-01-23 21:16:47,199 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:16:47,208 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:16:47,217 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5.9138ms.
+2021-01-23 21:16:47,222 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:16:47,244 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 39.1742ms
+2021-01-23 21:16:47,754 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:16:50,result:
+2021-01-23 21:16:50,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:16:55,result:
+2021-01-23 21:16:53,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:16:55,result:
+2021-01-23 21:16:55,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:00,result:
+2021-01-23 21:16:55,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:17:00,result:
+2021-01-23 21:16:59,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:00,result:
+2021-01-23 21:17:00,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:06,result:
+2021-01-23 21:17:05,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:06,result:
+2021-01-23 21:17:05,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:06,result:
+2021-01-23 21:17:05,010 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:17:10,result:
+2021-01-23 21:17:10,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:12,result:
+2021-01-23 21:17:11,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:15,result:
+2021-01-23 21:17:15,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:20,result:
+2021-01-23 21:17:15,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:17:20,result:
+2021-01-23 21:17:17,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:20,result:
+2021-01-23 21:17:20,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:24,result:
+2021-01-23 21:17:23,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:25,result:
+2021-01-23 21:17:25,024 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:17:30,result:
+2021-01-23 21:17:25,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:30,result:
+2021-01-23 21:17:28,440 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:17:28,441 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:17:28,442 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4239ms.
+2021-01-23 21:17:28,443 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:17:28,444 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 3.2534ms
+2021-01-23 21:17:29,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:30,result:
+2021-01-23 21:17:30,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:30,result:
+2021-01-23 21:17:35,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:17:40,result:
+2021-01-23 21:17:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:40,result:
+2021-01-23 21:17:35,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:40,result:
+2021-01-23 21:17:40,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:42,result:
+2021-01-23 21:17:41,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:45,result:
+2021-01-23 21:17:45,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:50,result:
+2021-01-23 21:17:45,018 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:17:50,result:
+2021-01-23 21:17:47,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:50,result:
+2021-01-23 21:17:50,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:54,result:
+2021-01-23 21:17:53,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:17:55,result:
+2021-01-23 21:17:55,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:00,result:
+2021-01-23 21:17:55,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:18:00,result:
+2021-01-23 21:17:59,022 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:00,result:
+2021-01-23 21:18:00,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:06,result:
+2021-01-23 21:18:05,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:18:10,result:
+2021-01-23 21:18:05,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:06,result:
+2021-01-23 21:18:05,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:10,result:
+2021-01-23 21:18:10,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:15,result:
+2021-01-23 21:18:11,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:15,result:
+2021-01-23 21:18:15,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:18,result:
+2021-01-23 21:18:15,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:18:20,result:
+2021-01-23 21:18:17,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:20,result:
+2021-01-23 21:18:20,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:24,result:
+2021-01-23 21:18:23,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:25,result:
+2021-01-23 21:18:25,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:30,result:
+2021-01-23 21:18:25,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:18:30,result:
+2021-01-23 21:18:28,501 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:18:28,503 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:18:28,504 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2222ms.
+2021-01-23 21:18:28,505 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:18:28,505 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.5211ms
+2021-01-23 21:18:29,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:30,result:
+2021-01-23 21:18:30,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:30,result:
+2021-01-23 21:18:35,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:36,result:
+2021-01-23 21:18:35,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:36,result:
+2021-01-23 21:18:35,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:18:40,result:
+2021-01-23 21:18:40,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:42,result:
+2021-01-23 21:18:41,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:45,result:
+2021-01-23 21:18:45,036 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:18:50,result:
+2021-01-23 21:18:45,036 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:50,result:
+2021-01-23 21:18:47,032 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:50,result:
+2021-01-23 21:18:50,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:54,result:
+2021-01-23 21:18:53,024 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:18:55,result:
+2021-01-23 21:18:55,025 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:19:00,result:
+2021-01-23 21:18:55,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:00,result:
+2021-01-23 21:18:59,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:00,result:
+2021-01-23 21:19:00,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:06,result:
+2021-01-23 21:19:05,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:10,result:
+2021-01-23 21:19:05,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:10,result:
+2021-01-23 21:19:05,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:19:10,result:
+2021-01-23 21:19:10,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:12,result:
+2021-01-23 21:19:11,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:15,result:
+2021-01-23 21:19:15,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:19:20,result:
+2021-01-23 21:19:15,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:20,result:
+2021-01-23 21:19:17,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:20,result:
+2021-01-23 21:19:20,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:25,result:
+2021-01-23 21:19:23,020 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:25,result:
+2021-01-23 21:19:25,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:30,result:
+2021-01-23 21:19:25,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:19:30,result:
+2021-01-23 21:19:29,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:30,result:
+2021-01-23 21:19:30,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:30,result:
+2021-01-23 21:19:35,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:40,result:
+2021-01-23 21:19:35,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:40,result:
+2021-01-23 21:19:35,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:19:40,result:
+2021-01-23 21:19:40,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:45,result:
+2021-01-23 21:19:41,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:45,result:
+2021-01-23 21:19:45,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:48,result:
+2021-01-23 21:19:45,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:19:50,result:
+2021-01-23 21:19:47,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:50,result:
+2021-01-23 21:19:50,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:55,result:
+2021-01-23 21:19:53,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:19:55,result:
+2021-01-23 21:19:55,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:00,result:
+2021-01-23 21:19:55,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:20:00,result:
+2021-01-23 21:19:59,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:00,result:
+2021-01-23 21:20:00,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:06,result:
+2021-01-23 21:20:03,058 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Quartz.Net5.Scheduler.JobModel]] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-23 21:20:03,059 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-23 21:20:03,059 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.1989ms.
+2021-01-23 21:20:03,061 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobModel, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-23 21:20:03,061 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 2.641ms
+2021-01-23 21:20:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:10,result:
+2021-01-23 21:20:05,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:20:10,result:
+2021-01-23 21:20:05,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:10,result:
+2021-01-23 21:20:10,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:12,result:
+2021-01-23 21:20:11,018 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:15,result:
+2021-01-23 21:20:15,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:20,result:
+2021-01-23 21:20:15,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:20:20,result:
+2021-01-23 21:20:17,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:20,result:
+2021-01-23 21:20:20,021 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:25,result:
+2021-01-23 21:20:23,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:25,result:
+2021-01-23 21:20:25,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:20:30,result:
+2021-01-23 21:20:25,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:30,result:
+2021-01-23 21:20:29,023 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:30,result:
+2021-01-23 21:20:30,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:36,result:
+2021-01-23 21:20:35,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:40,result:
+2021-01-23 21:20:35,017 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:20:40,result:
+2021-01-23 21:20:35,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:40,result:
+2021-01-23 21:20:40,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:45,result:
+2021-01-23 21:20:41,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:45,result:
+2021-01-23 21:20:45,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/23 21:20:50,result:
+2021-01-23 21:20:45,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:50,result:
+2021-01-23 21:20:47,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:50,result:
+2021-01-23 21:20:50,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/23 21:20:54,result:

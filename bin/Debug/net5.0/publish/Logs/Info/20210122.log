@@ -1,0 +1,378 @@
+2021-01-22 20:04:58,718 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:04:58,743 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:04:58,744 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:04:58,745 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-22 20:04:58,746 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:04:58,746 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:04:58,746 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:04:58,747 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:04:58,777 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:04:58,808 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:04:58,809 INFO :0 - [] [] [] Hosting environment: Production
+2021-01-22 20:04:58,809 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:05:00,028 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:10
+2021-01-22 20:05:00,028 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:06
+2021-01-22 20:05:00,028 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:05
+2021-01-22 20:05:05,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:10
+2021-01-22 20:05:06,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:12
+2021-01-22 20:05:10,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:20
+2021-01-22 20:05:10,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:15
+2021-01-22 20:05:12,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:18
+2021-01-22 20:05:15,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:20
+2021-01-22 20:05:18,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:24
+2021-01-22 20:05:20,017 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:30
+2021-01-22 20:05:20,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:25
+2021-01-22 20:05:24,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:30
+2021-01-22 20:05:25,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:30
+2021-01-22 20:05:30,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:40
+2021-01-22 20:05:30,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:35
+2021-01-22 20:05:30,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:36
+2021-01-22 20:05:35,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:40
+2021-01-22 20:05:35,059 INFO :0 - [] [] [] Application is shutting down...
+2021-01-22 20:05:35,063 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:05:35,063 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:05:35,066 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:06:05,014 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:06:05,039 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:06:05,039 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:06:05,040 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-22 20:06:05,041 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:06:05,041 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:06:05,041 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:06:05,042 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:06:05,071 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:06:05,099 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:10
+2021-01-22 20:06:05,101 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:06:05,102 INFO :0 - [] [] [] Hosting environment: Production
+2021-01-22 20:06:05,102 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:06:06,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:12
+2021-01-22 20:06:10,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:06:20
+2021-01-22 20:06:10,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:15
+2021-01-22 20:06:12,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:18
+2021-01-22 20:06:12,198 INFO :0 - [] [] [] Application is shutting down...
+2021-01-22 20:06:12,202 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:06:12,203 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:06:12,205 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:10:33,303 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:10:33,327 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:10:33,328 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:10:33,329 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-22 20:10:33,330 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:10:33,330 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:10:33,330 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:10:33,330 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:10:33,365 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:10:33,395 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:10:33,395 INFO :0 - [] [] [] Hosting environment: Production
+2021-01-22 20:10:33,395 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:10:35,025 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:40
+2021-01-22 20:10:36,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:42
+2021-01-22 20:10:40,016 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:10:50
+2021-01-22 20:10:40,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:45
+2021-01-22 20:10:42,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:48
+2021-01-22 20:10:45,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:50
+2021-01-22 20:10:48,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:54
+2021-01-22 20:10:50,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:00
+2021-01-22 20:10:50,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:55
+2021-01-22 20:10:54,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:00
+2021-01-22 20:10:55,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:00
+2021-01-22 20:11:00,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:10
+2021-01-22 20:11:00,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:05
+2021-01-22 20:11:00,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:06
+2021-01-22 20:11:05,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:10
+2021-01-22 20:11:06,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:12
+2021-01-22 20:11:10,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:20
+2021-01-22 20:11:10,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:15
+2021-01-22 20:11:12,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:18
+2021-01-22 20:11:15,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:20
+2021-01-22 20:11:18,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:24
+2021-01-22 20:11:20,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:30
+2021-01-22 20:11:20,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:25
+2021-01-22 20:11:24,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:30
+2021-01-22 20:11:25,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:30
+2021-01-22 20:11:26,782 INFO :0 - [] [] [] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Quartz.Net5.Scheduler.JobSchedule] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-22 20:11:26,791 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-22 20:11:26,794 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.0758ms.
+2021-01-22 20:11:26,800 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobSchedule, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-22 20:11:26,823 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 35.5629ms
+2021-01-22 20:11:30,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:40
+2021-01-22 20:11:30,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:35
+2021-01-22 20:11:30,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:36
+2021-01-22 20:11:35,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:40
+2021-01-22 20:11:36,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:42
+2021-01-22 20:11:40,002 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:50
+2021-01-22 20:11:40,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:45
+2021-01-22 20:11:42,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:48
+2021-01-22 20:11:45,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:50
+2021-01-22 20:11:48,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:54
+2021-01-22 20:11:50,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:00
+2021-01-22 20:11:50,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:55
+2021-01-22 20:11:54,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:00
+2021-01-22 20:11:55,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:00
+2021-01-22 20:12:00,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:10
+2021-01-22 20:12:00,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:05
+2021-01-22 20:12:00,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:06
+2021-01-22 20:12:05,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:10
+2021-01-22 20:12:06,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:12
+2021-01-22 20:12:10,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:20
+2021-01-22 20:12:10,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:15
+2021-01-22 20:12:12,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:18
+2021-01-22 20:12:15,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:20
+2021-01-22 20:12:18,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:24
+2021-01-22 20:12:20,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:30
+2021-01-22 20:12:20,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:25
+2021-01-22 20:12:24,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:30
+2021-01-22 20:12:25,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:30
+2021-01-22 20:12:30,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:40
+2021-01-22 20:12:30,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:35
+2021-01-22 20:12:30,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:36
+2021-01-22 20:12:35,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:40
+2021-01-22 20:12:36,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:42
+2021-01-22 20:12:40,000 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:50
+2021-01-22 20:12:40,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:45
+2021-01-22 20:12:42,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:48
+2021-01-22 20:12:45,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:50
+2021-01-22 20:12:48,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:54
+2021-01-22 20:12:50,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:00
+2021-01-22 20:12:50,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:55
+2021-01-22 20:12:54,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:00
+2021-01-22 20:12:55,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:00
+2021-01-22 20:13:00,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:10
+2021-01-22 20:13:00,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:05
+2021-01-22 20:13:00,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:06
+2021-01-22 20:13:05,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:10
+2021-01-22 20:13:06,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:12
+2021-01-22 20:13:10,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:20
+2021-01-22 20:13:10,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:15
+2021-01-22 20:13:12,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:18
+2021-01-22 20:13:15,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:20
+2021-01-22 20:13:18,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:24
+2021-01-22 20:13:20,008 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:30
+2021-01-22 20:13:20,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:25
+2021-01-22 20:13:24,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:30
+2021-01-22 20:13:25,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:30
+2021-01-22 20:13:30,011 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:40
+2021-01-22 20:13:30,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:35
+2021-01-22 20:13:30,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:36
+2021-01-22 20:13:35,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:40
+2021-01-22 20:13:36,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:42
+2021-01-22 20:13:40,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:50
+2021-01-22 20:13:40,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:45
+2021-01-22 20:13:42,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:48
+2021-01-22 20:13:45,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:50
+2021-01-22 20:13:48,017 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:54
+2021-01-22 20:13:50,014 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:00
+2021-01-22 20:13:50,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:55
+2021-01-22 20:13:54,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:00
+2021-01-22 20:13:55,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:00
+2021-01-22 20:14:00,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:10
+2021-01-22 20:14:00,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:05
+2021-01-22 20:14:00,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:06
+2021-01-22 20:14:05,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:10
+2021-01-22 20:14:06,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:12
+2021-01-22 20:14:10,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:20
+2021-01-22 20:14:10,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:15
+2021-01-22 20:14:12,011 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:18
+2021-01-22 20:14:15,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:20
+2021-01-22 20:14:18,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:24
+2021-01-22 20:14:20,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:30
+2021-01-22 20:14:20,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:25
+2021-01-22 20:14:24,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:30
+2021-01-22 20:14:25,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:30
+2021-01-22 20:14:30,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:40
+2021-01-22 20:14:30,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:35
+2021-01-22 20:14:30,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:36
+2021-01-22 20:14:35,015 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:40
+2021-01-22 20:14:36,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:42
+2021-01-22 20:14:40,002 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:50
+2021-01-22 20:14:40,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:45
+2021-01-22 20:14:42,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:48
+2021-01-22 20:14:45,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:50
+2021-01-22 20:14:48,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:54
+2021-01-22 20:14:50,003 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:00
+2021-01-22 20:14:50,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:55
+2021-01-22 20:14:54,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:00
+2021-01-22 20:14:55,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:00
+2021-01-22 20:15:00,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:10
+2021-01-22 20:15:00,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:05
+2021-01-22 20:15:00,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:06
+2021-01-22 20:15:05,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:10
+2021-01-22 20:15:06,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:12
+2021-01-22 20:15:10,013 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:20
+2021-01-22 20:15:10,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:15
+2021-01-22 20:15:12,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:18
+2021-01-22 20:15:15,014 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:20
+2021-01-22 20:15:18,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:24
+2021-01-22 20:15:20,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:30
+2021-01-22 20:15:20,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:25
+2021-01-22 20:15:24,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:30
+2021-01-22 20:15:25,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:30
+2021-01-22 20:15:30,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:40
+2021-01-22 20:15:30,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:35
+2021-01-22 20:15:30,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:36
+2021-01-22 20:15:35,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:40
+2021-01-22 20:15:36,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:42
+2021-01-22 20:15:40,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:50
+2021-01-22 20:15:40,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:45
+2021-01-22 20:15:42,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:48
+2021-01-22 20:15:45,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:50
+2021-01-22 20:15:48,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:54
+2021-01-22 20:15:50,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:16:00
+2021-01-22 20:15:50,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:55
+2021-01-22 20:15:54,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:00
+2021-01-22 20:15:55,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:00
+2021-01-22 20:16:00,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:16:10
+2021-01-22 20:16:00,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:05
+2021-01-22 20:16:00,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:06
+2021-01-22 20:16:04,085 INFO :0 - [] [] [] Application is shutting down...
+2021-01-22 20:16:04,092 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:16:04,093 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:16:04,095 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:21:23,040 INFO :0 - [] [] [] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:21:23,065 INFO :0 - [] [] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:21:23,066 INFO :0 - [] [] [] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:21:23,066 INFO :0 - [] [] [] RAMJobStore initialized.
+2021-01-22 20:21:23,067 INFO :0 - [] [] [] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:21:23,068 INFO :0 - [] [] [] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:21:23,068 INFO :0 - [] [] [] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:21:23,068 INFO :0 - [] [] [] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:21:23,098 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:21:23,131 INFO :0 - [] [] [] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:21:23,131 INFO :0 - [] [] [] Hosting environment: Development
+2021-01-22 20:21:23,131 INFO :0 - [] [] [] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:21:24,026 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:30
+2021-01-22 20:21:25,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:30
+2021-01-22 20:21:30,012 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:21:40
+2021-01-22 20:21:30,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:35
+2021-01-22 20:21:30,013 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:36
+2021-01-22 20:21:35,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:40
+2021-01-22 20:21:36,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:42
+2021-01-22 20:21:40,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:45
+2021-01-22 20:21:40,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:21:50
+2021-01-22 20:21:42,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:48
+2021-01-22 20:21:45,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:50
+2021-01-22 20:21:48,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:54
+2021-01-22 20:21:50,000 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:00
+2021-01-22 20:21:50,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:55
+2021-01-22 20:21:54,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:00
+2021-01-22 20:21:55,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:00
+2021-01-22 20:22:00,001 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:10
+2021-01-22 20:22:00,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:05
+2021-01-22 20:22:00,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:06
+2021-01-22 20:22:05,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:10
+2021-01-22 20:22:06,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:12
+2021-01-22 20:22:10,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:20
+2021-01-22 20:22:10,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:15
+2021-01-22 20:22:12,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:18
+2021-01-22 20:22:15,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:20
+2021-01-22 20:22:18,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:24
+2021-01-22 20:22:20,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:30
+2021-01-22 20:22:20,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:25
+2021-01-22 20:22:24,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:30
+2021-01-22 20:22:25,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:30
+2021-01-22 20:22:25,727 INFO :0 - [] [] [] Route matched with {action = "PauseAll", controller = "ScheduleManager"}. Executing controller action with signature System.String PauseAll() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-22 20:22:25,734 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-22 20:22:25,741 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.1927ms.
+2021-01-22 20:22:25,744 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-22 20:22:25,747 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler) in 15.245ms
+2021-01-22 20:24:25,369 INFO :0 - [] [] [] Route matched with {action = "ResumeAll", controller = "ScheduleManager"}. Executing controller action with signature System.String ResumeAll() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-22 20:24:25,371 INFO :0 - [] [] [] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-22 20:24:25,375 INFO :0 - [] [] [] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3.8626ms.
+2021-01-22 20:24:25,375 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:30
+2021-01-22 20:24:25,375 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:30
+2021-01-22 20:24:25,375 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:24:30
+2021-01-22 20:24:25,376 INFO :0 - [] [] [] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-22 20:24:25,376 INFO :0 - [] [] [] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler) in 5.7176ms
+2021-01-22 20:24:30,002 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:24:40
+2021-01-22 20:24:30,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:35
+2021-01-22 20:24:30,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:36
+2021-01-22 20:24:35,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:40
+2021-01-22 20:24:36,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:42
+2021-01-22 20:24:40,019 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:24:50
+2021-01-22 20:24:40,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:45
+2021-01-22 20:24:42,010 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:48
+2021-01-22 20:24:45,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:50
+2021-01-22 20:24:48,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:54
+2021-01-22 20:24:50,000 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:00
+2021-01-22 20:24:50,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:55
+2021-01-22 20:24:54,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:00
+2021-01-22 20:24:55,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:00
+2021-01-22 20:25:00,003 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:10
+2021-01-22 20:25:00,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:05
+2021-01-22 20:25:00,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:06
+2021-01-22 20:25:05,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:10
+2021-01-22 20:25:06,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:12
+2021-01-22 20:25:10,000 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:20
+2021-01-22 20:25:10,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:15
+2021-01-22 20:25:12,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:18
+2021-01-22 20:25:15,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:20
+2021-01-22 20:25:18,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:24
+2021-01-22 20:25:20,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:30
+2021-01-22 20:25:20,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:25
+2021-01-22 20:25:24,016 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:30
+2021-01-22 20:25:25,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:30
+2021-01-22 20:25:30,005 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:40
+2021-01-22 20:25:30,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:35
+2021-01-22 20:25:30,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:36
+2021-01-22 20:25:35,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:40
+2021-01-22 20:25:36,005 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:42
+2021-01-22 20:25:40,009 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:50
+2021-01-22 20:25:40,009 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:45
+2021-01-22 20:25:42,001 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:48
+2021-01-22 20:25:45,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:50
+2021-01-22 20:25:48,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:54
+2021-01-22 20:25:50,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:00
+2021-01-22 20:25:50,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:55
+2021-01-22 20:25:54,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:00
+2021-01-22 20:25:55,003 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:00
+2021-01-22 20:26:00,006 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:10
+2021-01-22 20:26:00,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:05
+2021-01-22 20:26:00,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:06
+2021-01-22 20:26:05,012 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:10
+2021-01-22 20:26:06,006 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:12
+2021-01-22 20:26:10,007 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:20
+2021-01-22 20:26:10,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:15
+2021-01-22 20:26:12,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:18
+2021-01-22 20:26:15,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:20
+2021-01-22 20:26:18,008 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:24
+2021-01-22 20:26:20,004 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:30
+2021-01-22 20:26:20,004 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:25
+2021-01-22 20:26:24,019 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:30
+2021-01-22 20:26:25,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:30
+2021-01-22 20:26:30,002 INFO :0 - [] [] [] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:40
+2021-01-22 20:26:30,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:35
+2021-01-22 20:26:30,002 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:36
+2021-01-22 20:26:35,007 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:40
+2021-01-22 20:26:36,000 INFO :0 - [] [] [] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:42
+2021-01-22 20:26:39,570 INFO :0 - [] [] [] Application is shutting down...
+2021-01-22 20:26:39,574 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:26:39,574 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:26:39,576 INFO :0 - [] [] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job后台管理</title>
+    <link rel="stylesheet" href="./index.css">
+    <style>
+        body{
+            font-family: "微软雅黑";
+            background: linear-gradient(#e6e9f0,#eef1f5); /* 标准语法 */
+            
+        }
+        .text {
+            font-size: 14px;
+        }
+
+        .item {
+            margin-bottom: 18px;
+        }
+
+        .clearfix:before,
+        .clearfix:after {
+            display: table;
+            content: "";
+        }
+        .clearfix:after {
+            clear: both
+        }
+
+        .el-card__header{
+            background: linear-gradient(#48c6ef,#6f86d6); 
+            position: relative;
+            padding-top: 8px;
+            padding-bottom: 24px;
+        }
+
+        .box-card {
+            width: 100%;
+            
+        }
+        .box-card button{
+            color: white;
+        }
+        .box-card button:hover{
+            color: black;
+        }
+        .trigger_div span{
+            display: block;
+            text-align: center;
+            margin: 10px 20px 10px;
+        }
+        .trigger_div{
+            border: 1px solid black;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .el-row {
+            margin-bottom: 20px;
+            &:last-child {
+            margin-bottom: 0;
+            }
+        }
+        .el-col {
+            border-radius: 4px;
+        }
+        .bg-purple-dark {
+            background: #409EFF;
+        }
+        .bg-purple {
+            background: #d3dce6;
+        }
+        .bg-purple-light {
+            background: #e5e9f2;
+        }
+        .grid-content {
+            border-radius: 4px;
+            min-height: 36px;
+        }
+        .row-bg {
+            padding: 10px 0;
+            background-color: #f9fafc;
+        }
+        .group_tile{
+            background: linear-gradient(#00c6fb,#005bea); 
+            padding-left: 20px;
+            color: #fff;
+            border: 1px solid transparent;
+            border-radius: 5px;
+        }
+        .app_title{
+            background: linear-gradient(#00c6fb,#005bea); 
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            border: 1px solid transparent;
+            border-radius: 5px;
+        }
+        .text_url{
+            position: absolute;
+            bottom: 4px;
+            left: 0;
+            padding-left: 20px;
+            color: white;
+        }
+        .fl{
+            float: right; 
+        }
+        .PauseORResume{                     
+            padding: 3px 3px;
+            color: #000;
+            font-size: 30px;        
+
+        }
+        .PauseORResume:hover{
+            cursor:pointer;
+            background-color: rgba(red, green, blue, 0.5);
+            /* background:linear-gradient(#e6e9f0,#eef1f5); */
+            opacity: 0.5;
+        }
+        .job_icon{
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+
+        <!-- <div v-for="scheduleData in scheduleDatas" :key="scheduleData.jobName">
+            <el-card class="box-card">
+                <div slot="header" class="clearfix">
+                  <span>{{scheduleData.jobGroup}}/{{scheduleData.jobName}}</span>
+                  <el-button style="float: right; padding: 3px 0" type="text">暂停</el-button>
+                  <el-button style="float: right; padding: 3px 0" type="text">启动</el-button>
+                </div>
+                <div class="trigger_div" v-for="trigger in scheduleData.triggers" :key="trigger.name">
+                    <el-button style="float: right; padding: 3px 0" type="text">启动</el-button>        
+                    <span>触发器:{{ trigger.name }}</span>
+                    <span>Cron表达式:{{ trigger.cron }}</span>
+                    <span>下次执行时间:{{ trigger.nextExecTime }}</span>
+                    <span>状态:{{ trigger.state }}</span>       
+                     
+                </div>
+            </el-card>         
+        </div> -->
+
+        <h1 class="app_title">Job后台管理
+            <el-tooltip class="item" effect="dark" content="恢复所有的job" placement="top">
+                <i class="el-icon-video-play  PauseORResume job_icon" @click="allBtnClick('Resume')" ></i>
+            </el-tooltip> 
+            <el-tooltip class="item" effect="dark" content="停止所有的job" placement="top">
+                <i class="el-icon-video-pause  PauseORResume job_icon" @click="allBtnClick('Pause')" ></i>
+            </el-tooltip>           
+        </h1>
+        <el-row v-for="group in scheduleDatas">       
+            <el-row>
+                <el-col :span="24">
+                    <div class="grid-content bg-purple-dark">
+                        <h2 class="group_tile">{{group[0].jobGroup}}                          
+                            <i class="el-icon-video-play  PauseORResume job_icon" @click="groupBtnClick(group[0].jobGroup,'Resume')" ></i>
+                            <i class="el-icon-video-pause  PauseORResume job_icon" @click="groupBtnClick(group[0].jobGroup,'Pause')" ></i>
+                        </h2>
+                        
+                    </div>
+            </el-col>
+            </el-row>
+            <el-row :gutter="20"  v-for="(item, index) in scheduleDatasSplit(group)" >  
+                <!-- {{item}} -->
+                
+                <el-col :span="6"  v-for="scheduleData in item " :key="scheduleData.jobName">
+                    <!-- {{scheduleData}} -->                  
+                    <div class="grid-content bg-purple">
+                        <el-card class="box-card">                              
+                            <div slot="header" class="clearfix">
+                            <span style="color: white;">{{scheduleData.jobName}}</span>
+                            <span class="text_url" >{{scheduleData.jobUrl}}</span>                    
+                            <!-- <el-button  
+                             @click="jobbtnclick(scheduleData.jobName,scheduleData.jobGroup)" style="float: right; padding: 3px 0"
+                              type="text">启动/暂停</el-button> -->
+                              <i class="el-icon-video-pause PauseORResume fl job_icon" @click="jobbtnclick(scheduleData.jobName,group[0].jobGroup,'Pause')" ></i>
+                              <i class="el-icon-video-play PauseORResume fl job_icon" @click="jobbtnclick(scheduleData.jobName,group[0].jobGroup,'Resume')" ></i>
+                            </div>
+                                 
+                            <div class="trigger_div" v-for="trigger in scheduleData.triggers" :key="trigger.name">
+                                <i class="el-icon-video-pause PauseORResume fl" @click="triggerbtnclick(trigger.name,trigger.state)" v-if="trigger.state === 'Normal'"></i>
+                                <i class="el-icon-video-play PauseORResume fl" @click="triggerbtnclick(trigger.name,trigger.state)" v-else></i>
+                                <span>触发器: {{ trigger.name }}</span>
+                                <span>Cron表达式: {{ trigger.cron }}</span>
+                                <span>执行结果: {{ trigger.result }}</span>       
+                                <span>状态: {{ trigger.state }}</span>       
+                                <span>下次执行时间: {{ trigger.nextExecTime }}</span>
+                            </div>
+                        </el-card>
+                    </div>
+                </el-col>
+
+            </el-row>
+        </el-row>
+        
+        
+    </div>
+    
+    <script src="./vue.js"></script>
+    <script src="./axios.js"></script>
+    <script src="./index.js"></script>
+    <script >
+   
+        var app = new Vue({
+            el: '#app',
+            data: {
+                message: '叫我老大哥',
+                scheduleDatas:{},
+                fenzu:4
+            },
+            computed:{
+                // scheduleDatasSplit:function(data){
+                //     let result = [];
+ 
+                //     for(var i=0;i<data.length;i+=this.fenzu){
+                
+                //         result.push(data.slice(i,i+this.fenzu));                
+                //     }
+                //     return result;
+                // }
+            },
+            methods:{
+                //按数量分为多个数组
+                allBtnClick:function(action){
+                    axios.post(`/ScheduleManager/PauseOrResumeAll?action=${action}`)
+                    .then((response) =>{
+                        this.myMotify("成功",response.data,"success");
+                        this.app_init();
+                    })
+                    .catch( (error) => {
+                        this.myMotify("失败",error,"error");
+                    });
+                },
+                groupBtnClick:function(group,action){
+                    axios.post(`/ScheduleManager/PauseOrResumeGroup?&group=${group}&action=${action}`)
+                    .then((response) =>{
+                        this.myMotify("成功",response.data,"success");
+                        this.app_init();
+                    })
+                    .catch( (error) => {
+                        this.myMotify("失败",error,"error");
+                    });
+                },
+                jobbtnclick:function(name,group,action)
+                {       
+                    axios.post(`/ScheduleManager/PauseOrResumeJob?JobName=${name}&group=${group}&action=${action}`)
+                    .then((response) =>{
+                        this.myMotify("成功",response.data,"success");
+                        this.app_init();
+                    })
+                    .catch( (error) => {
+                        this.myMotify("失败",error,"error");
+                    });
+                },
+                triggerbtnclick:function(name,state)
+                {       
+                    axios.post(`/ScheduleManager/PauseOrResumeTrigger?TriggerName=${name}&state=${state}`)
+                    .then((response) =>{
+                        this.myMotify("成功",response.data,"success");
+                        this.app_init();
+                    })
+                    .catch( (error) => {
+                        this.myMotify("失败",error,"error");
+                    });
+                },
+                scheduleDatasSplit:function(data){
+                    let result = [];
+ 
+                    for(var i=0;i<data.length;i+=this.fenzu){
+                
+                        result.push(data.slice(i,i+this.fenzu));                
+                    }
+                    return result;
+                },
+                app_init:function(){
+                    axios.get('/ScheduleManager/get')
+                    .then((response) =>{
+                        this.scheduleDatas = response.data;
+                        //this.myMotify("成功","加载成功","success");
+                    })
+                    .catch( (error) => {
+                        this.myMotify("失败",error,"error");
+                    });
+                },
+                myMotify:function(title,data,noticeType){
+                    this.$notify({
+                            title: title,
+                            message: data,
+                            type: noticeType,
+                            position: 'bottom-right'
+                    });
+                }
+            },
+            mounted:function(){
+                // axios.get('/ScheduleManager/get')
+                //     .then((response) =>{
+                //         this.scheduleDatas = response.data;
+                //         console.log(response);
+                //     })
+                //     .catch( (error) => {
+                //         console.log(error);
+                //     });
+                this.app_init();
+            }
+        })
+    </script>
+</body>
+</html>

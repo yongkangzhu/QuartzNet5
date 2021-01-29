@@ -1,0 +1,1305 @@
+2021-01-22 20:04:58,638 [DBG] Hosting starting
+2021-01-22 20:04:58,718 [INF] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:04:58,740 [DBG] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:04:58,743 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:04:58,744 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:04:58,745 [INF] RAMJobStore initialized.
+2021-01-22 20:04:58,746 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:04:58,746 [INF] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:04:58,746 [INF] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:04:58,747 [INF] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:04:58,777 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:04:58,780 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:04:58,808 [INF] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:04:58,809 [INF] Hosting environment: Production
+2021-01-22 20:04:58,809 [INF] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:04:58,809 [DBG] Hosting started
+2021-01-22 20:05:00,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:00,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:00,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:00,023 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:00,023 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:00,023 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:00,028 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:10
+2021-01-22 20:05:00,028 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:06
+2021-01-22 20:05:00,028 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:05
+2021-01-22 20:05:00,029 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:00,029 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:00,029 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:05,015 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:05,015 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:05,015 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:10
+2021-01-22 20:05:05,015 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:06,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:06,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:06,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:12
+2021-01-22 20:05:06,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:10,008 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:10,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:10,008 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:20
+2021-01-22 20:05:10,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:10,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:10,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:10,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:15
+2021-01-22 20:05:10,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:12,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:12,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:12,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:18
+2021-01-22 20:05:12,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:15,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:15,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:15,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:20
+2021-01-22 20:05:15,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:18,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:18,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:18,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:24
+2021-01-22 20:05:18,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:20,017 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:20,017 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:20,017 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:30
+2021-01-22 20:05:20,017 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:20,017 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:20,017 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:20,017 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:25
+2021-01-22 20:05:20,017 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:24,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:24,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:24,014 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:30
+2021-01-22 20:05:24,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:25,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:25,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:30
+2021-01-22 20:05:25,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:25,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:30,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:30,001 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:05:40
+2021-01-22 20:05:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:30,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:30,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:35
+2021-01-22 20:05:30,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:30,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:30,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:30,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:36
+2021-01-22 20:05:30,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:35,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:05:35,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:35,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:05:40
+2021-01-22 20:05:35,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:05:35,059 [INF] Application is shutting down...
+2021-01-22 20:05:35,060 [DBG] Hosting stopping
+2021-01-22 20:05:35,063 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:05:35,063 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:05:35,064 [DBG] Shutting down threadpool...
+2021-01-22 20:05:35,064 [DBG] Shutdown of threadpool complete.
+2021-01-22 20:05:35,066 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:05:35,066 [DBG] Hosting stopped
+2021-01-22 20:06:04,939 [DBG] Hosting starting
+2021-01-22 20:06:05,014 [INF] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:06:05,035 [DBG] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:06:05,039 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:06:05,039 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:06:05,040 [INF] RAMJobStore initialized.
+2021-01-22 20:06:05,041 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:06:05,041 [INF] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:06:05,041 [INF] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:06:05,042 [INF] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:06:05,071 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:06:05,074 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:06:05,085 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:06:05,096 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:05,099 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:10
+2021-01-22 20:06:05,100 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:06:05,101 [INF] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:06:05,102 [INF] Hosting environment: Production
+2021-01-22 20:06:05,102 [INF] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:06:05,102 [DBG] Hosting started
+2021-01-22 20:06:06,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:06,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:06:06,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:12
+2021-01-22 20:06:06,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:06:10,008 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:06:10,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:06:10,008 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:06:20
+2021-01-22 20:06:10,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:06:10,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:10,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:06:10,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:15
+2021-01-22 20:06:10,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:06:12,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:06:12,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:12,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:06:18
+2021-01-22 20:06:12,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:06:12,198 [INF] Application is shutting down...
+2021-01-22 20:06:12,199 [DBG] Hosting stopping
+2021-01-22 20:06:12,202 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:06:12,203 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:06:12,203 [DBG] Shutting down threadpool...
+2021-01-22 20:06:12,203 [DBG] Shutdown of threadpool complete.
+2021-01-22 20:06:12,205 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:06:12,205 [DBG] Hosting stopped
+2021-01-22 20:10:33,226 [DBG] Hosting starting
+2021-01-22 20:10:33,303 [INF] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:10:33,324 [DBG] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:10:33,327 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:10:33,328 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:10:33,329 [INF] RAMJobStore initialized.
+2021-01-22 20:10:33,330 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:10:33,330 [INF] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:10:33,330 [INF] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:10:33,330 [INF] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:10:33,365 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:10:33,369 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:33,395 [INF] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:10:33,395 [INF] Hosting environment: Production
+2021-01-22 20:10:33,395 [INF] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:10:33,395 [DBG] Hosting started
+2021-01-22 20:10:35,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:35,022 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:35,025 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:40
+2021-01-22 20:10:35,026 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:36,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:36,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:36,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:42
+2021-01-22 20:10:36,010 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:40,016 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:10:40,016 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:40,016 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:10:50
+2021-01-22 20:10:40,016 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:40,017 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:40,017 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:40,017 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:45
+2021-01-22 20:10:40,017 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:42,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:42,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:42,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:48
+2021-01-22 20:10:42,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:45,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:45,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:50
+2021-01-22 20:10:45,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:45,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:48,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:48,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:48,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:54
+2021-01-22 20:10:48,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:50,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:50,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:10:50,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:00
+2021-01-22 20:10:50,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:50,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:50,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:50,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:10:55
+2021-01-22 20:10:50,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:54,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:54,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:54,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:00
+2021-01-22 20:10:54,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:10:55,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:55,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:00
+2021-01-22 20:10:55,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:10:55,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:00,011 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:00,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:00,011 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:10
+2021-01-22 20:11:00,011 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:00,011 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:00,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:00,011 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:05
+2021-01-22 20:11:00,011 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:00,011 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:00,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:00,011 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:06
+2021-01-22 20:11:00,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:05,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:05,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:05,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:10
+2021-01-22 20:11:05,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:06,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:06,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:06,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:12
+2021-01-22 20:11:06,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:10,008 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:10,008 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:20
+2021-01-22 20:11:10,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:10,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:10,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:10,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:10,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:15
+2021-01-22 20:11:10,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:12,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:12,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:12,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:18
+2021-01-22 20:11:12,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:15,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:15,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:15,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:20
+2021-01-22 20:11:15,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:18,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:18,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:24
+2021-01-22 20:11:18,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:18,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:20,013 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:20,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:20,013 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:30
+2021-01-22 20:11:20,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:20,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:20,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:20,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:25
+2021-01-22 20:11:20,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:24,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:24,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:24,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:30
+2021-01-22 20:11:24,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:25,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:25,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:25,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:30
+2021-01-22 20:11:25,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:26,774 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2021-01-22 20:11:26,782 [INF] Route matched with {action = "Get", controller = "ScheduleManager"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Quartz.Net5.Scheduler.JobSchedule] Get() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-22 20:11:26,785 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2021-01-22 20:11:26,785 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2021-01-22 20:11:26,785 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2021-01-22 20:11:26,785 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2021-01-22 20:11:26,785 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2021-01-22 20:11:26,786 [DBG] Executing controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:11:26,786 [DBG] Executed controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:11:26,788 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:11:26,788 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:11:26,788 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:11:26,788 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:11:26,791 [INF] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-22 20:11:26,794 [INF] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.0758ms.
+2021-01-22 20:11:26,795 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:11:26,795 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:11:26,795 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:11:26,795 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:11:26,795 [VRB] Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:11:26,796 [VRB] Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:11:26,796 [VRB] Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2021-01-22 20:11:26,797 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2021-01-22 20:11:26,799 [DBG] No information found on request to perform content negotiation.
+2021-01-22 20:11:26,799 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2021-01-22 20:11:26,799 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2021-01-22 20:11:26,800 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2021-01-22 20:11:26,800 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Quartz.Net5.Scheduler.JobSchedule, Quartz.Net5.Scheduler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-01-22 20:11:26,821 [VRB] After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2021-01-22 20:11:26,821 [VRB] Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:11:26,821 [VRB] Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:11:26,823 [INF] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get (Quartz.Net5.Scheduler) in 35.5629ms
+2021-01-22 20:11:30,012 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:30,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:30,012 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:40
+2021-01-22 20:11:30,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:30,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:30,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:30,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:35
+2021-01-22 20:11:30,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:30,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:30,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:30,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:36
+2021-01-22 20:11:30,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:35,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:35,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:40
+2021-01-22 20:11:35,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:35,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:36,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:36,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:36,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:42
+2021-01-22 20:11:36,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:40,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:40,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:40,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:40,002 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:11:50
+2021-01-22 20:11:40,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:40,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:40,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:45
+2021-01-22 20:11:40,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:42,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:42,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:48
+2021-01-22 20:11:42,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:42,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:45,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:45,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:45,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:50
+2021-01-22 20:11:45,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:48,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:48,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:54
+2021-01-22 20:11:48,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:48,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:50,004 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:50,004 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:00
+2021-01-22 20:11:50,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:50,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:50,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:50,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:50,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:11:55
+2021-01-22 20:11:50,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:54,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:54,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:54,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:00
+2021-01-22 20:11:54,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:11:55,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:11:55,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:55,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:00
+2021-01-22 20:11:55,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:00,006 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:00,007 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:10
+2021-01-22 20:12:00,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:00,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:00,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:00,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:00,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:05
+2021-01-22 20:12:00,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:00,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:00,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:00,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:06
+2021-01-22 20:12:00,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:05,019 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:05,019 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:05,019 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:10
+2021-01-22 20:12:05,019 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:06,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:06,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:12
+2021-01-22 20:12:06,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:06,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:10,004 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:10,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:10,004 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:20
+2021-01-22 20:12:10,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:10,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:10,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:10,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:15
+2021-01-22 20:12:10,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:12,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:12,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:12,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:18
+2021-01-22 20:12:12,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:15,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:15,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:15,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:20
+2021-01-22 20:12:15,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:18,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:18,014 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:24
+2021-01-22 20:12:18,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:18,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:20,004 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:20,004 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:30
+2021-01-22 20:12:20,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:20,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:20,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:20,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:20,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:25
+2021-01-22 20:12:20,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:24,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:24,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:30
+2021-01-22 20:12:24,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:24,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:25,014 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:25,014 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:25,014 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:30
+2021-01-22 20:12:25,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:30,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:30,006 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:40
+2021-01-22 20:12:30,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:30,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:30,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:30,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:35
+2021-01-22 20:12:30,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:30,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:30,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:30,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:36
+2021-01-22 20:12:30,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:35,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:35,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:35,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:40
+2021-01-22 20:12:35,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:36,014 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:36,014 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:36,014 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:42
+2021-01-22 20:12:36,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:40,000 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:40,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:40,000 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:12:50
+2021-01-22 20:12:40,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:40,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:40,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:40,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:45
+2021-01-22 20:12:40,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:42,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:42,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:48
+2021-01-22 20:12:42,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:42,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:45,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:45,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:45,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:50
+2021-01-22 20:12:45,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:48,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:48,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:54
+2021-01-22 20:12:48,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:48,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:50,012 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:50,013 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:00
+2021-01-22 20:12:50,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:50,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:50,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:50,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:50,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:12:55
+2021-01-22 20:12:50,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:54,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:54,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:00
+2021-01-22 20:12:54,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:54,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:12:55,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:55,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:12:55,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:00
+2021-01-22 20:12:55,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:00,003 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:00,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:00,004 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:10
+2021-01-22 20:13:00,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:00,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:00,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:00,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:05
+2021-01-22 20:13:00,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:00,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:00,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:00,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:06
+2021-01-22 20:13:00,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:05,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:05,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:05,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:10
+2021-01-22 20:13:05,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:06,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:06,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:06,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:12
+2021-01-22 20:13:06,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:10,004 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:10,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:10,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:20
+2021-01-22 20:13:10,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:10,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:10,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:10,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:15
+2021-01-22 20:13:10,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:12,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:12,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:12,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:18
+2021-01-22 20:13:12,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:15,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:15,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:15,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:20
+2021-01-22 20:13:15,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:18,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:18,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:18,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:24
+2021-01-22 20:13:18,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:20,008 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:20,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:20,008 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:30
+2021-01-22 20:13:20,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:20,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:20,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:20,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:25
+2021-01-22 20:13:20,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:24,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:24,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:30
+2021-01-22 20:13:24,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:24,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:25,016 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:25,016 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:25,016 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:30
+2021-01-22 20:13:25,016 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:30,011 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:30,011 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:40
+2021-01-22 20:13:30,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:30,011 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:30,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:30,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:30,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:35
+2021-01-22 20:13:30,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:30,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:30,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:30,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:36
+2021-01-22 20:13:30,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:35,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:35,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:35,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:40
+2021-01-22 20:13:35,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:36,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:36,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:36,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:42
+2021-01-22 20:13:36,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:40,003 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:40,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:40,004 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:13:50
+2021-01-22 20:13:40,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:40,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:40,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:40,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:45
+2021-01-22 20:13:40,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:42,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:42,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:42,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:48
+2021-01-22 20:13:42,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:45,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:45,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:50
+2021-01-22 20:13:45,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:45,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:48,017 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:48,017 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:48,017 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:54
+2021-01-22 20:13:48,017 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:50,014 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:50,014 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:00
+2021-01-22 20:13:50,014 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:50,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:50,014 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:50,014 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:50,014 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:13:55
+2021-01-22 20:13:50,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:54,011 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:54,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:54,011 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:00
+2021-01-22 20:13:54,011 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:13:55,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:13:55,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:55,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:00
+2021-01-22 20:13:55,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:00,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:00,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:00,006 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:10
+2021-01-22 20:14:00,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:00,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:00,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:00,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:05
+2021-01-22 20:14:00,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:00,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:00,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:00,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:06
+2021-01-22 20:14:00,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:05,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:05,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:05,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:10
+2021-01-22 20:14:05,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:06,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:06,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:12
+2021-01-22 20:14:06,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:06,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:10,004 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:10,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:20
+2021-01-22 20:14:10,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:10,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:10,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:10,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:10,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:15
+2021-01-22 20:14:10,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:12,011 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:12,011 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:12,011 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:18
+2021-01-22 20:14:12,011 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:15,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:15,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:15,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:20
+2021-01-22 20:14:15,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:18,010 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:18,010 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:18,010 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:24
+2021-01-22 20:14:18,010 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:20,013 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:20,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:20,013 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:30
+2021-01-22 20:14:20,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:20,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:20,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:20,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:25
+2021-01-22 20:14:20,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:24,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:24,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:30
+2021-01-22 20:14:24,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:24,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:25,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:25,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:25,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:30
+2021-01-22 20:14:25,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:30,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:30,001 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:40
+2021-01-22 20:14:30,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:30,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:30,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:35
+2021-01-22 20:14:30,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:30,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:30,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:36
+2021-01-22 20:14:30,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:35,015 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:35,015 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:35,015 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:40
+2021-01-22 20:14:35,015 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:36,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:36,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:36,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:42
+2021-01-22 20:14:36,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:40,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:40,002 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:14:50
+2021-01-22 20:14:40,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:40,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:40,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:40,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:40,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:45
+2021-01-22 20:14:40,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:42,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:42,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:42,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:48
+2021-01-22 20:14:42,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:45,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:45,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:45,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:50
+2021-01-22 20:14:45,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:48,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:48,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:54
+2021-01-22 20:14:48,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:48,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:50,003 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:50,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:50,003 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:00
+2021-01-22 20:14:50,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:50,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:50,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:50,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:14:55
+2021-01-22 20:14:50,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:54,010 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:54,010 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:54,010 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:00
+2021-01-22 20:14:54,010 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:14:55,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:55,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:14:55,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:00
+2021-01-22 20:14:55,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:00,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:00,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:00,001 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:10
+2021-01-22 20:15:00,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:00,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:00,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:00,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:05
+2021-01-22 20:15:00,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:00,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:00,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:00,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:06
+2021-01-22 20:15:00,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:05,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:05,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:10
+2021-01-22 20:15:05,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:05,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:06,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:06,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:12
+2021-01-22 20:15:06,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:06,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:10,013 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:10,013 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:20
+2021-01-22 20:15:10,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:10,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:10,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:10,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:10,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:15
+2021-01-22 20:15:10,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:12,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:12,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:18
+2021-01-22 20:15:12,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:12,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:15,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:15,014 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:20
+2021-01-22 20:15:15,014 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:15,014 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:18,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:18,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:18,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:24
+2021-01-22 20:15:18,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:20,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:20,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:30
+2021-01-22 20:15:20,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:20,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:20,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:20,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:20,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:25
+2021-01-22 20:15:20,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:24,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:24,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:30
+2021-01-22 20:15:24,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:24,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:25,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:25,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:25,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:30
+2021-01-22 20:15:25,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:30,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:30,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:40
+2021-01-22 20:15:30,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:30,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:30,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:35
+2021-01-22 20:15:30,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:30,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:30,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:36
+2021-01-22 20:15:30,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:35,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:35,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:35,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:40
+2021-01-22 20:15:35,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:36,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:36,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:36,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:42
+2021-01-22 20:15:36,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:40,007 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:40,007 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:15:50
+2021-01-22 20:15:40,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:40,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:40,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:40,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:40,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:45
+2021-01-22 20:15:40,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:42,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:42,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:42,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:48
+2021-01-22 20:15:42,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:45,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:45,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:45,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:50
+2021-01-22 20:15:45,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:48,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:48,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:48,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:54
+2021-01-22 20:15:48,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:50,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:50,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:16:00
+2021-01-22 20:15:50,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:50,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:50,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:50,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:50,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:15:55
+2021-01-22 20:15:50,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:54,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:54,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:00
+2021-01-22 20:15:54,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:54,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:15:55,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:15:55,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:55,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:00
+2021-01-22 20:15:55,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:16:00,007 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:16:00,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:16:00,007 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:16:10
+2021-01-22 20:16:00,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:16:00,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:16:00,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:16:00,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:16:00,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:05
+2021-01-22 20:16:00,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:16:00,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:16:00,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:16:06
+2021-01-22 20:16:00,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:16:04,085 [INF] Application is shutting down...
+2021-01-22 20:16:04,087 [DBG] Hosting stopping
+2021-01-22 20:16:04,092 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:16:04,093 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:16:04,094 [DBG] Shutting down threadpool...
+2021-01-22 20:16:04,094 [DBG] Shutdown of threadpool complete.
+2021-01-22 20:16:04,095 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:16:04,095 [DBG] Hosting stopped
+2021-01-22 20:21:22,964 [DBG] Hosting starting
+2021-01-22 20:21:23,040 [INF] Default Quartz.NET properties loaded from embedded resource file
+2021-01-22 20:21:23,061 [DBG] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:21:23,065 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-01-22 20:21:23,066 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-01-22 20:21:23,066 [INF] RAMJobStore initialized.
+2021-01-22 20:21:23,067 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-01-22 20:21:23,068 [INF] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-01-22 20:21:23,068 [INF] Quartz scheduler version: 3.2.4.0
+2021-01-22 20:21:23,068 [INF] JobFactory set to: Quartz.Net5.Scheduler.SingletonJobFactory
+2021-01-22 20:21:23,098 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-01-22 20:21:23,101 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:23,131 [INF] Application started. Press Ctrl+C to shut down.
+2021-01-22 20:21:23,131 [INF] Hosting environment: Development
+2021-01-22 20:21:23,131 [INF] Content root path: D:\repos1\Quartz.Net5.Scheduler\bin\Debug\net5.0\publish
+2021-01-22 20:21:23,131 [DBG] Hosting started
+2021-01-22 20:21:24,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:24,023 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:24,026 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:30
+2021-01-22 20:21:24,027 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:25,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:25,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:25,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:30
+2021-01-22 20:21:25,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:30,012 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:21:30,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:30,012 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:21:40
+2021-01-22 20:21:30,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:30,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:30,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:30,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:35
+2021-01-22 20:21:30,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:30,013 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:30,013 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:30,013 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:36
+2021-01-22 20:21:30,013 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:35,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:35,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:40
+2021-01-22 20:21:35,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:35,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:36,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:36,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:36,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:42
+2021-01-22 20:21:36,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:40,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:40,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:21:40,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:40,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:40,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:45
+2021-01-22 20:21:40,001 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:21:50
+2021-01-22 20:21:40,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:40,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:42,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:42,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:42,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:48
+2021-01-22 20:21:42,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:45,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:45,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:45,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:50
+2021-01-22 20:21:45,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:48,010 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:48,010 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:48,010 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:54
+2021-01-22 20:21:48,011 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:50,000 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:21:50,000 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:00
+2021-01-22 20:21:50,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:50,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:50,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:50,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:21:55
+2021-01-22 20:21:50,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:50,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:54,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:54,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:54,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:00
+2021-01-22 20:21:54,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:21:55,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:21:55,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:55,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:00
+2021-01-22 20:21:55,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:00,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:22:00,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:00,001 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:10
+2021-01-22 20:22:00,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:00,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:00,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:00,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:05
+2021-01-22 20:22:00,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:00,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:00,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:00,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:06
+2021-01-22 20:22:00,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:05,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:05,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:05,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:10
+2021-01-22 20:22:05,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:06,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:06,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:06,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:12
+2021-01-22 20:22:06,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:10,006 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:22:10,006 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:20
+2021-01-22 20:22:10,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:10,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:10,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:10,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:10,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:15
+2021-01-22 20:22:10,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:12,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:12,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:12,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:18
+2021-01-22 20:22:12,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:15,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:15,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:15,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:20
+2021-01-22 20:22:15,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:18,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:18,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:18,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:24
+2021-01-22 20:22:18,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:20,006 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:22:20,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:20,006 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:22:30
+2021-01-22 20:22:20,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:20,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:20,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:20,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:25
+2021-01-22 20:22:20,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:24,010 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:24,010 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:24,010 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:30
+2021-01-22 20:22:24,010 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:25,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:25,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:22:25,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:22:30
+2021-01-22 20:22:25,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:22:25,719 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2021-01-22 20:22:25,727 [INF] Route matched with {action = "PauseAll", controller = "ScheduleManager"}. Executing controller action with signature System.String PauseAll() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-22 20:22:25,729 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2021-01-22 20:22:25,729 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2021-01-22 20:22:25,729 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2021-01-22 20:22:25,729 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2021-01-22 20:22:25,729 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2021-01-22 20:22:25,729 [DBG] Executing controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:22:25,730 [DBG] Executed controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:22:25,731 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:22:25,731 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:22:25,731 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:22:25,732 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:22:25,734 [INF] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-22 20:22:25,738 [DBG] Batch acquisition of 0 triggers
+2021-01-22 20:22:25,741 [INF] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.1927ms.
+2021-01-22 20:22:25,741 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:22:25,741 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:22:25,741 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:22:25,741 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:22:25,741 [VRB] Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:22:25,741 [VRB] Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:22:25,742 [VRB] Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2021-01-22 20:22:25,742 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2021-01-22 20:22:25,743 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2021-01-22 20:22:25,744 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2021-01-22 20:22:25,744 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-22 20:22:25,744 [VRB] After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2021-01-22 20:22:25,744 [VRB] Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:22:25,744 [VRB] Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:22:25,747 [INF] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseAll (Quartz.Net5.Scheduler) in 15.245ms
+2021-01-22 20:22:51,715 [DBG] Batch acquisition of 0 triggers
+2021-01-22 20:23:18,017 [DBG] Batch acquisition of 0 triggers
+2021-01-22 20:23:44,934 [DBG] Batch acquisition of 0 triggers
+2021-01-22 20:24:14,090 [DBG] Batch acquisition of 0 triggers
+2021-01-22 20:24:25,369 [INF] Route matched with {action = "ResumeAll", controller = "ScheduleManager"}. Executing controller action with signature System.String ResumeAll() on controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler).
+2021-01-22 20:24:25,370 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2021-01-22 20:24:25,370 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2021-01-22 20:24:25,370 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2021-01-22 20:24:25,370 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2021-01-22 20:24:25,370 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2021-01-22 20:24:25,370 [DBG] Executing controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:24:25,370 [DBG] Executed controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:24:25,370 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:24:25,371 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:24:25,371 [VRB] Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:24:25,371 [VRB] Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:24:25,371 [INF] Executing action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler) - Validation state: "Valid"
+2021-01-22 20:24:25,374 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 [INF] Executed action method Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3.8626ms.
+2021-01-22 20:24:25,375 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:25,375 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:24:25,375 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:30
+2021-01-22 20:24:25,375 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:25,375 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:25,375 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:30
+2021-01-22 20:24:25,375 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:25,375 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:25,375 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:24:30
+2021-01-22 20:24:25,375 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:25,375 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2021-01-22 20:24:25,375 [VRB] Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:24:25,375 [VRB] Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-01-22 20:24:25,375 [VRB] Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:24:25,375 [VRB] Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:24:25,375 [VRB] Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2021-01-22 20:24:25,375 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2021-01-22 20:24:25,376 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2021-01-22 20:24:25,376 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2021-01-22 20:24:25,376 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-01-22 20:24:25,376 [VRB] After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2021-01-22 20:24:25,376 [VRB] Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:24:25,376 [VRB] Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2021-01-22 20:24:25,376 [INF] Executed action Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.ResumeAll (Quartz.Net5.Scheduler) in 5.7176ms
+2021-01-22 20:24:30,002 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:30,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:30,002 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:24:40
+2021-01-22 20:24:30,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:30,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:30,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:30,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:35
+2021-01-22 20:24:30,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:30,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:30,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:30,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:36
+2021-01-22 20:24:30,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:35,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:35,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:35,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:40
+2021-01-22 20:24:35,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:36,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:36,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:36,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:42
+2021-01-22 20:24:36,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:40,018 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:40,019 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:40,019 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:24:50
+2021-01-22 20:24:40,019 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:40,019 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:40,019 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:40,019 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:45
+2021-01-22 20:24:40,020 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:42,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:42,010 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:48
+2021-01-22 20:24:42,010 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:42,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:45,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:45,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:45,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:50
+2021-01-22 20:24:45,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:48,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:48,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:54
+2021-01-22 20:24:48,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:48,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:50,000 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:50,000 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:00
+2021-01-22 20:24:50,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:50,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:50,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:50,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:24:55
+2021-01-22 20:24:50,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:50,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:54,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:54,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:00
+2021-01-22 20:24:54,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:54,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:24:55,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:24:55,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:55,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:00
+2021-01-22 20:24:55,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:00,003 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:00,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:00,003 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:10
+2021-01-22 20:25:00,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:00,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:00,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:00,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:05
+2021-01-22 20:25:00,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:00,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:00,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:00,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:06
+2021-01-22 20:25:00,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:05,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:05,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:10
+2021-01-22 20:25:05,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:05,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:06,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:06,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:06,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:12
+2021-01-22 20:25:06,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:10,000 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:10,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:10,000 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:20
+2021-01-22 20:25:10,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:10,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:10,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:10,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:15
+2021-01-22 20:25:10,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:12,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:12,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:12,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:18
+2021-01-22 20:25:12,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:15,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:15,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:20
+2021-01-22 20:25:15,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:15,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:18,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:18,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:18,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:24
+2021-01-22 20:25:18,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:20,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:20,006 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:20,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:20,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:20,006 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:30
+2021-01-22 20:25:20,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:25
+2021-01-22 20:25:20,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:20,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:24,016 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:24,016 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:24,016 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:30
+2021-01-22 20:25:24,016 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:25,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:25,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:25,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:30
+2021-01-22 20:25:25,001 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:30,005 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:30,005 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:40
+2021-01-22 20:25:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:30,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:30,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:30,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:35
+2021-01-22 20:25:30,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:30,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:30,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:30,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:36
+2021-01-22 20:25:30,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:35,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:35,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:40
+2021-01-22 20:25:35,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:35,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:36,005 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:36,005 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:36,005 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:42
+2021-01-22 20:25:36,005 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:40,008 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:40,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:40,009 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:25:50
+2021-01-22 20:25:40,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:40,009 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:40,009 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:40,009 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:45
+2021-01-22 20:25:40,009 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:42,001 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:42,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:42,001 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:48
+2021-01-22 20:25:42,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:45,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:45,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:50
+2021-01-22 20:25:45,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:45,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:48,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:48,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:54
+2021-01-22 20:25:48,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:48,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:50,007 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:50,007 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:00
+2021-01-22 20:25:50,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:50,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:50,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:50,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:50,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:25:55
+2021-01-22 20:25:50,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:54,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:54,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:54,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:00
+2021-01-22 20:25:54,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:25:55,003 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:25:55,003 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:55,003 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:00
+2021-01-22 20:25:55,003 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:00,006 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:00,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:00,006 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:10
+2021-01-22 20:26:00,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:00,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:00,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:00,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:05
+2021-01-22 20:26:00,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:00,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:00,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:00,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:06
+2021-01-22 20:26:00,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:05,012 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:05,012 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:10
+2021-01-22 20:26:05,012 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:05,012 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:06,006 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:06,006 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:06,006 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:12
+2021-01-22 20:26:06,006 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:10,007 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:10,007 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:20
+2021-01-22 20:26:10,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:10,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:10,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:10,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:10,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:15
+2021-01-22 20:26:10,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:12,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:12,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:12,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:18
+2021-01-22 20:26:12,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:15,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:15,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:15,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:20
+2021-01-22 20:26:15,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:18,008 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:18,008 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:18,008 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:24
+2021-01-22 20:26:18,008 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:20,003 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:20,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:20,004 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:30
+2021-01-22 20:26:20,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:20,004 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:20,004 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:20,004 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:25
+2021-01-22 20:26:20,004 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:24,018 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:24,019 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:24,019 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:30
+2021-01-22 20:26:24,019 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:25,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:25,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:25,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:30
+2021-01-22 20:26:25,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:30,001 [DBG] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:30,001 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:30,002 [INF] Job:JIT发料任务 run with data:发料,next exec time 2021/01/22 20:26:40
+2021-01-22 20:26:30,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:30,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:30,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:30,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:35
+2021-01-22 20:26:30,002 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:30,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:30,002 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:36
+2021-01-22 20:26:30,002 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:30,002 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:35,007 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:35,007 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:35,007 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:40
+2021-01-22 20:26:35,007 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:36,000 [DBG] Batch acquisition of 1 triggers
+2021-01-22 20:26:36,000 [DBG] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:36,000 [INF] Job:MAC报废送签核 run with data:hello,next exec time 2021/01/22 20:26:42
+2021-01-22 20:26:36,000 [DBG] Trigger instruction : NoInstruction
+2021-01-22 20:26:39,570 [INF] Application is shutting down...
+2021-01-22 20:26:39,570 [DBG] Hosting stopping
+2021-01-22 20:26:39,574 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-01-22 20:26:39,574 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-01-22 20:26:39,575 [DBG] Shutting down threadpool...
+2021-01-22 20:26:39,575 [DBG] Shutdown of threadpool complete.
+2021-01-22 20:26:39,576 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2021-01-22 20:26:39,577 [DBG] Hosting stopped

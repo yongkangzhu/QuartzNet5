@@ -1,0 +1,173 @@
+2021-01-26 16:09:47,894 ERROR :0 - [] [] [] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get() in D:\repos1\Quartz.Net5.Scheduler\Controllers\ScheduleManagerController.cs:line 55
+   at lambda_method14(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-26 16:09:59,036 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,019 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,019 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,029 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,036 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,044 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,063 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,063 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,067 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,075 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,083 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:00,090 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,038 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,097 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,144 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,152 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,181 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,199 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,216 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,270 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,281 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,295 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:10:43,328 ERROR :0 - [] [] [] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get() in D:\repos1\Quartz.Net5.Scheduler\Controllers\ScheduleManagerController.cs:line 55
+   at lambda_method14(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-26 16:10:59,016 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,021 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,021 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,030 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,037 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,049 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,052 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,059 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,093 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:00,093 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:18,581 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:21,361 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:11:30,015 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:30,030 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,019 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,025 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,029 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,048 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,054 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,054 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,072 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,072 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:40,075 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:17:59,015 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,014 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,028 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,028 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,041 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,041 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,084 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,089 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,096 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,107 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,110 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:00,117 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:18:30,013 ERROR :0 - [] [] [] Sequence contains no matching element
+2021-01-26 16:43:18,101 ERROR :0 - [] [] [] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Name cannot be null. (Parameter 'name')
+   at Quartz.Util.Key`1..ctor(String name, String group)
+   at Quartz.Util.Key`1..ctor(String name)
+   at Quartz.TriggerKey..ctor(String name)
+   at Quartz.Net5.Scheduler.QuartzHostedService.PauseTrigger(String triggerKey) in D:\repos1\Quartz.Net5.Scheduler\QuartzHostedService.cs:line 82
+   at Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.PauseTrigger(String TriggerName) in D:\repos1\Quartz.Net5.Scheduler\Controllers\ScheduleManagerController.cs:line 85
+   at lambda_method19(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-26 16:46:40,021 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:08:00,038 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:34:40,088 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:34:40,088 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:34:40,088 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:34:40,088 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:34:40,088 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:34:40,088 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,064 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,067 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,067 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,067 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,067 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,067 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 17:46:02,067 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 18:20:40,026 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.
+2021-01-26 19:48:02,783 ERROR :0 - [] [] [] An unhandled exception has occurred while executing the request.
+System.Exception: 故意错的
+   at Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get() in D:\repos1\Quartz.Net5.Scheduler\Controllers\ScheduleManagerController.cs:line 35
+   at lambda_method14(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-26 19:51:57,056 ERROR :0 - [] [] [] An unhandled exception has occurred while executing the request.
+System.Exception: 故意错的
+   at Quartz.Net5.Scheduler.Controllers.ScheduleManagerController.Get() in D:\repos1\Quartz.Net5.Scheduler\Controllers\ScheduleManagerController.cs:line 35
+   at lambda_method14(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-26 19:53:00,021 ERROR :0 - [] [] [] Collection was modified; enumeration operation may not execute.

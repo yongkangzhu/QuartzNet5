@@ -1,0 +1,885 @@
+2021-01-22 20:04:58,638 DEBUG :0 - [] [] [] Hosting starting
+2021-01-22 20:04:58,740 DEBUG :0 - [] [] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:04:58,780 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:04:58,809 DEBUG :0 - [] [] [] Hosting started
+2021-01-22 20:05:00,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:00,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:00,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:00,023 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:00,023 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:00,023 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:00,029 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:00,029 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:00,029 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:05,015 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:05,015 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:05,015 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:06,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:06,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:06,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:10,008 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:10,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:10,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:10,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:10,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:10,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:12,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:12,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:12,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:15,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:15,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:15,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:18,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:18,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:18,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:20,017 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:20,017 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:20,017 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:20,017 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:20,017 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:20,017 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:24,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:24,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:24,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:25,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:25,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:25,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:30,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:35,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:05:35,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:05:35,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:05:35,060 DEBUG :0 - [] [] [] Hosting stopping
+2021-01-22 20:05:35,064 DEBUG :0 - [] [] [] Shutting down threadpool...
+2021-01-22 20:05:35,064 DEBUG :0 - [] [] [] Shutdown of threadpool complete.
+2021-01-22 20:05:35,066 DEBUG :0 - [] [] [] Hosting stopped
+2021-01-22 20:06:04,939 DEBUG :0 - [] [] [] Hosting starting
+2021-01-22 20:06:05,035 DEBUG :0 - [] [] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:06:05,074 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:06:05,085 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:06:05,096 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:05,100 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:06:05,102 DEBUG :0 - [] [] [] Hosting started
+2021-01-22 20:06:06,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:06,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:06:06,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:06:10,008 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:06:10,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:06:10,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:06:10,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:10,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:06:10,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:06:12,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:06:12,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:06:12,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:06:12,199 DEBUG :0 - [] [] [] Hosting stopping
+2021-01-22 20:06:12,203 DEBUG :0 - [] [] [] Shutting down threadpool...
+2021-01-22 20:06:12,203 DEBUG :0 - [] [] [] Shutdown of threadpool complete.
+2021-01-22 20:06:12,205 DEBUG :0 - [] [] [] Hosting stopped
+2021-01-22 20:10:33,226 DEBUG :0 - [] [] [] Hosting starting
+2021-01-22 20:10:33,324 DEBUG :0 - [] [] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:10:33,369 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:33,395 DEBUG :0 - [] [] [] Hosting started
+2021-01-22 20:10:35,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:35,022 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:35,026 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:36,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:36,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:36,010 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:40,016 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:10:40,016 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:40,016 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:40,017 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:40,017 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:40,017 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:42,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:42,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:42,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:45,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:45,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:45,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:48,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:48,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:48,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:50,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:50,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:10:50,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:50,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:50,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:50,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:54,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:54,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:54,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:10:55,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:10:55,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:10:55,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:00,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:00,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:05,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:05,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:05,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:06,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:06,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:06,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:10,008 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:10,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:10,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:10,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:10,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:10,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:12,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:12,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:12,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:15,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:15,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:15,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:18,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:18,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:18,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:20,013 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:20,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:20,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:20,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:20,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:20,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:24,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:24,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:24,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:25,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:25,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:25,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:26,774 DEBUG :0 - [] [] [] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2021-01-22 20:11:26,785 DEBUG :0 - [] [] [] Execution plan of authorization filters (in the following order): ["None"]
+2021-01-22 20:11:26,785 DEBUG :0 - [] [] [] Execution plan of resource filters (in the following order): ["None"]
+2021-01-22 20:11:26,785 DEBUG :0 - [] [] [] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2021-01-22 20:11:26,785 DEBUG :0 - [] [] [] Execution plan of exception filters (in the following order): ["None"]
+2021-01-22 20:11:26,785 DEBUG :0 - [] [] [] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2021-01-22 20:11:26,786 DEBUG :0 - [] [] [] Executing controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:11:26,786 DEBUG :0 - [] [] [] Executed controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:11:26,797 DEBUG :0 - [] [] [] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2021-01-22 20:11:26,799 DEBUG :0 - [] [] [] No information found on request to perform content negotiation.
+2021-01-22 20:11:26,799 DEBUG :0 - [] [] [] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2021-01-22 20:11:26,799 DEBUG :0 - [] [] [] Attempting to select the first formatter in the output formatters list which can write the result.
+2021-01-22 20:11:26,800 DEBUG :0 - [] [] [] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:30,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:35,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:35,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:35,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:36,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:36,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:36,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:40,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:40,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:40,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:40,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:40,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:40,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:42,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:42,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:42,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:45,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:45,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:45,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:48,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:48,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:48,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:50,004 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:11:50,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:50,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:50,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:50,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:50,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:54,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:54,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:54,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:11:55,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:11:55,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:11:55,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:00,006 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:00,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:05,019 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:05,019 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:05,019 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:06,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:06,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:06,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:10,004 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:10,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:10,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:10,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:10,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:10,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:12,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:12,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:12,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:15,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:15,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:15,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:18,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:18,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:18,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:20,004 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:20,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:20,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:20,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:20,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:20,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:24,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:24,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:24,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:25,014 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:25,014 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:25,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:30,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:30,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:35,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:35,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:35,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:36,014 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:36,014 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:36,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:40,000 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:40,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:40,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:40,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:40,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:40,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:42,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:42,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:42,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:45,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:45,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:45,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:48,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:48,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:48,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:50,012 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:12:50,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:50,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:50,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:50,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:50,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:54,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:54,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:54,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:12:55,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:12:55,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:12:55,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:00,003 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:00,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:00,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:00,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:00,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:00,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:00,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:00,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:00,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:05,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:05,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:05,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:06,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:06,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:06,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:10,004 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:10,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:10,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:10,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:10,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:10,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:12,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:12,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:12,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:15,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:15,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:15,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:18,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:18,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:18,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:20,008 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:20,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:20,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:20,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:20,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:20,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:24,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:24,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:24,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:25,016 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:25,016 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:25,016 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:30,011 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:30,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:30,011 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:30,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:30,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:30,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:30,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:30,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:30,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:35,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:35,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:35,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:36,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:36,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:36,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:40,003 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:40,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:40,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:40,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:40,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:40,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:42,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:42,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:42,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:45,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:45,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:45,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:48,017 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:48,017 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:48,017 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:50,014 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:13:50,014 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:50,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:50,014 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:50,014 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:50,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:54,011 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:54,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:54,011 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:13:55,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:13:55,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:13:55,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:00,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:00,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:00,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:05,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:05,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:05,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:06,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:06,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:06,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:10,004 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:10,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:10,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:10,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:10,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:10,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:12,011 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:12,011 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:12,011 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:15,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:15,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:15,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:18,010 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:18,010 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:18,010 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:20,013 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:20,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:20,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:20,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:20,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:20,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:24,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:24,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:24,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:25,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:25,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:25,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:30,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:35,015 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:35,015 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:35,015 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:36,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:36,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:36,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:40,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:40,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:40,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:40,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:40,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:40,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:42,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:42,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:42,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:45,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:45,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:45,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:48,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:48,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:48,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:50,003 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:14:50,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:50,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:50,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:50,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:50,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:54,010 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:54,010 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:54,010 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:14:55,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:14:55,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:14:55,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:00,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:05,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:05,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:05,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:06,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:06,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:06,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:10,013 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:10,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:10,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:10,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:10,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:10,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:12,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:12,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:12,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:15,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:15,014 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:15,014 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:18,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:18,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:18,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:20,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:20,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:20,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:20,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:20,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:20,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:24,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:24,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:24,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:25,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:25,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:25,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:30,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:35,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:35,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:35,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:36,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:36,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:36,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:40,007 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:40,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:40,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:40,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:40,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:40,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:42,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:42,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:42,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:45,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:45,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:45,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:48,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:48,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:48,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:50,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:15:50,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:50,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:50,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:50,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:50,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:54,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:54,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:54,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:15:55,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:15:55,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:15:55,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:16:00,007 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:16:00,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:16:00,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:16:00,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:16:00,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:16:00,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:16:00,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:16:00,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:16:00,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:16:04,087 DEBUG :0 - [] [] [] Hosting stopping
+2021-01-22 20:16:04,094 DEBUG :0 - [] [] [] Shutting down threadpool...
+2021-01-22 20:16:04,094 DEBUG :0 - [] [] [] Shutdown of threadpool complete.
+2021-01-22 20:16:04,095 DEBUG :0 - [] [] [] Hosting stopped
+2021-01-22 20:21:22,964 DEBUG :0 - [] [] [] Hosting starting
+2021-01-22 20:21:23,061 DEBUG :0 - [] [] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-01-22 20:21:23,101 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:23,131 DEBUG :0 - [] [] [] Hosting started
+2021-01-22 20:21:24,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:24,023 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:24,027 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:25,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:25,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:25,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:30,012 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:21:30,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:30,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:30,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:30,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:30,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:30,013 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:30,013 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:30,013 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:35,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:35,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:35,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:36,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:36,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:36,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:40,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:40,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:21:40,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:40,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:40,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:40,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:42,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:42,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:42,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:45,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:45,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:45,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:48,010 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:48,010 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:48,011 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:50,000 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:21:50,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:50,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:50,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:50,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:50,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:54,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:54,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:54,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:21:55,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:21:55,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:21:55,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:00,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:22:00,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:00,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:05,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:05,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:05,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:06,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:06,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:06,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:10,006 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:22:10,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:10,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:10,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:10,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:10,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:12,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:12,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:12,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:15,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:15,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:15,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:18,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:18,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:18,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:20,006 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:22:20,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:20,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:20,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:20,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:20,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:24,010 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:24,010 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:24,010 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:25,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:22:25,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:22:25,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:22:25,719 DEBUG :0 - [] [] [] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2021-01-22 20:22:25,729 DEBUG :0 - [] [] [] Execution plan of authorization filters (in the following order): ["None"]
+2021-01-22 20:22:25,729 DEBUG :0 - [] [] [] Execution plan of resource filters (in the following order): ["None"]
+2021-01-22 20:22:25,729 DEBUG :0 - [] [] [] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2021-01-22 20:22:25,729 DEBUG :0 - [] [] [] Execution plan of exception filters (in the following order): ["None"]
+2021-01-22 20:22:25,729 DEBUG :0 - [] [] [] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2021-01-22 20:22:25,729 DEBUG :0 - [] [] [] Executing controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:22:25,730 DEBUG :0 - [] [] [] Executed controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:22:25,738 DEBUG :0 - [] [] [] Batch acquisition of 0 triggers
+2021-01-22 20:22:25,742 DEBUG :0 - [] [] [] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2021-01-22 20:22:25,743 DEBUG :0 - [] [] [] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2021-01-22 20:22:25,744 DEBUG :0 - [] [] [] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2021-01-22 20:22:51,715 DEBUG :0 - [] [] [] Batch acquisition of 0 triggers
+2021-01-22 20:23:18,017 DEBUG :0 - [] [] [] Batch acquisition of 0 triggers
+2021-01-22 20:23:44,934 DEBUG :0 - [] [] [] Batch acquisition of 0 triggers
+2021-01-22 20:24:14,090 DEBUG :0 - [] [] [] Batch acquisition of 0 triggers
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Execution plan of authorization filters (in the following order): ["None"]
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Execution plan of resource filters (in the following order): ["None"]
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Execution plan of exception filters (in the following order): ["None"]
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Executing controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:24:25,370 DEBUG :0 - [] [] [] Executed controller factory for controller Quartz.Net5.Scheduler.Controllers.ScheduleManagerController (Quartz.Net5.Scheduler)
+2021-01-22 20:24:25,374 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:25,375 DEBUG :0 - [] [] [] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2021-01-22 20:24:25,376 DEBUG :0 - [] [] [] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2021-01-22 20:24:25,376 DEBUG :0 - [] [] [] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:30,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:30,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:35,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:35,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:35,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:36,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:36,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:36,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:40,018 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:40,019 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:40,019 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:40,019 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:40,019 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:40,020 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:42,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:42,010 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:42,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:45,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:45,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:45,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:48,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:48,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:48,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:50,000 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:24:50,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:50,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:50,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:50,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:50,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:54,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:54,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:54,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:24:55,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:24:55,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:24:55,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:00,003 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:00,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:00,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:00,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:00,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:00,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:00,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:00,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:00,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:05,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:05,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:05,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:06,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:06,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:06,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:10,000 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:10,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:10,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:10,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:10,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:10,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:12,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:12,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:12,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:15,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:15,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:15,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:18,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:18,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:18,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:20,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:20,006 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:20,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:20,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:20,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:20,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:24,016 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:24,016 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:24,016 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:25,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:25,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:25,001 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:30,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:35,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:35,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:35,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:36,005 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:36,005 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:36,005 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:40,008 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:40,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:40,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:40,009 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:40,009 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:40,009 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:42,001 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:42,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:42,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:45,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:45,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:45,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:48,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:48,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:48,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:50,007 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:25:50,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:50,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:50,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:50,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:50,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:54,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:54,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:54,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:25:55,003 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:25:55,003 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:25:55,003 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:00,006 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:00,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:00,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:00,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:00,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:00,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:00,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:00,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:00,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:05,012 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:05,012 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:05,012 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:06,006 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:06,006 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:06,006 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:10,007 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:10,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:10,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:10,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:10,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:10,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:12,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:12,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:12,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:15,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:15,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:15,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:18,008 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:18,008 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:18,008 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:20,003 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:20,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:20,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:20,004 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:20,004 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:20,004 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:24,018 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:24,019 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:24,019 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:25,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:25,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:25,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:30,001 DEBUG :0 - [] [] [] Calling Execute on job 物料群组.JIT发料任务
+2021-01-22 20:26:30,001 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:30,002 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:35,007 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:35,007 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:35,007 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:36,000 DEBUG :0 - [] [] [] Batch acquisition of 1 triggers
+2021-01-22 20:26:36,000 DEBUG :0 - [] [] [] Calling Execute on job 签核群组.MAC报废送签核
+2021-01-22 20:26:36,000 DEBUG :0 - [] [] [] Trigger instruction : NoInstruction
+2021-01-22 20:26:39,570 DEBUG :0 - [] [] [] Hosting stopping
+2021-01-22 20:26:39,575 DEBUG :0 - [] [] [] Shutting down threadpool...
+2021-01-22 20:26:39,575 DEBUG :0 - [] [] [] Shutdown of threadpool complete.
+2021-01-22 20:26:39,577 DEBUG :0 - [] [] [] Hosting stopped
